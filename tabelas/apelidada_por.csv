@@ -1,4 +1,4 @@
-,ID_nome_comum,fk_nome_cientifico
+,fk_id_nome_comum,fk_nome_cientifico
 0,0,Arhysosage cactorum
 1,0,Partamona littoralis
 2,1,Arhysosage cactorum

@@ -1,4 +1,4 @@
-,id_familia,id_grupo,Nome Científico,Categoria,Ano,id_categoria_ameaca
+,fk_id_familia,fk_id_grupo,nome_cientifico,categoria,ano,fk_id_categoria
 0,0,1,Harpia harpyja,VU,2014,3.0
 1,0,1,Harpia harpyja,VU,2021,3.0
 2,0,1,Morphnus guianensis,VU,2014,3.0

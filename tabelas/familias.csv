@@ -1,4 +1,4 @@
-id_familia,nome,id_ordem
+id_familia,nome_familia,fk_id_ordem
 0,Accipitridae,0
 1,Achiridae,69
 2,Actiniidae,1

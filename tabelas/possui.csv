@@ -1,4 +1,4 @@
-,fk_id_unidade,fk_id_bioma,hectares
+,fk_id_uc,fk_id_bioma,hectare
 0,1,3,1887.0
 1,1,6,2549.0
 2,2,1,26672.0
