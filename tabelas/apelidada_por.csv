@@ -1,0 +1,3699 @@
+,ID_nome_comum,fk_nome_cientifico
+0,0,Arhysosage cactorum
+1,0,Partamona littoralis
+2,1,Arhysosage cactorum
+3,1,Partamona littoralis
+4,2,Arhysosage cactorum
+5,3,Baryancistrus longipinnis
+6,3,Baryancistrus niveatus
+7,4,Baryancistrus longipinnis
+8,4,Baryancistrus niveatus
+9,5,Harttia depressa
+10,5,Harttia dissidens
+11,6,Scobinancistrus aureatus
+12,6,Scobinancistrus pariolispos
+13,7,Scobinancistrus aureatus
+14,7,Scobinancistrus pariolispos
+15,8,Leporacanthicus joselimai
+16,9,Leptagrion bocainense
+17,10,Serpophaga hypoleuca pallida
+18,11,Charinus acaraje
+19,11,Charinus potiguar
+20,11,Charinus asturius
+21,12,Iodopleura pipra
+22,12,Iodopleura pipra leucopygia
+23,13,Geositta poeciloptera
+24,14,Henochilus wheatlandii
+25,15,Potiberaba porakuara
+26,16,Tapirus terrestris
+27,17,Touit melanonotus
+28,18,Leporinus guttatus
+29,18,Leporinus pitingai
+30,19,Ianduba paubrasil
+31,19,Celaetycheus mungunza
+32,19,Metagonia potiguar
+33,19,Matagaia chromatopus
+34,19,Neonella noronha
+35,19,Typhochlaena curumim
+36,19,Harmonicon cerberus
+37,19,Speocera eleonorae
+38,19,Ybyrapora diversipes
+39,19,Ybyrapora gamba
+40,19,Typhochlaena seladonia
+41,19,Drymusa spelunca
+42,19,Isoctenus corymbus
+43,19,Ochyrocera ibitipoca
+44,19,Dolichothele diamantinensis
+45,19,Pterinopelma sazimai
+46,20,Ianduba paubrasil
+47,20,Celaetycheus mungunza
+48,20,Metagonia potiguar
+49,20,Matagaia chromatopus
+50,20,Neonella noronha
+51,20,Typhochlaena curumim
+52,20,Harmonicon cerberus
+53,20,Speocera eleonorae
+54,20,Ybyrapora diversipes
+55,20,Ybyrapora gamba
+56,20,Typhochlaena seladonia
+57,20,Drymusa spelunca
+58,20,Isoctenus corymbus
+59,20,Ochyrocera ibitipoca
+60,20,Dolichothele diamantinensis
+61,20,Pterinopelma sazimai
+62,21,Ianduba paubrasil
+63,21,Celaetycheus mungunza
+64,21,Metagonia potiguar
+65,21,Matagaia chromatopus
+66,21,Neonella noronha
+67,21,Typhochlaena curumim
+68,21,Harmonicon cerberus
+69,21,Speocera eleonorae
+70,21,Ybyrapora diversipes
+71,21,Ybyrapora gamba
+72,21,Typhochlaena seladonia
+73,21,Drymusa spelunca
+74,21,Isoctenus corymbus
+75,21,Ochyrocera ibitipoca
+76,21,Dolichothele diamantinensis
+77,21,Pterinopelma sazimai
+78,22,Ianduba paubrasil
+79,22,Celaetycheus mungunza
+80,22,Metagonia potiguar
+81,22,Matagaia chromatopus
+82,22,Neonella noronha
+83,22,Typhochlaena curumim
+84,22,Harmonicon cerberus
+85,22,Speocera eleonorae
+86,22,Ybyrapora diversipes
+87,22,Ybyrapora gamba
+88,22,Typhochlaena seladonia
+89,22,Drymusa spelunca
+90,22,Isoctenus corymbus
+91,22,Ochyrocera ibitipoca
+92,22,Dolichothele diamantinensis
+93,22,Pterinopelma sazimai
+94,23,Ianduba paubrasil
+95,23,Celaetycheus mungunza
+96,23,Metagonia potiguar
+97,23,Matagaia chromatopus
+98,23,Neonella noronha
+99,23,Typhochlaena curumim
+100,23,Harmonicon cerberus
+101,23,Speocera eleonorae
+102,23,Ybyrapora diversipes
+103,23,Ybyrapora gamba
+104,23,Typhochlaena seladonia
+105,23,Drymusa spelunca
+106,23,Isoctenus corymbus
+107,23,Ochyrocera ibitipoca
+108,23,Dolichothele diamantinensis
+109,23,Pterinopelma sazimai
+110,24,Ianduba paubrasil
+111,24,Celaetycheus mungunza
+112,24,Metagonia potiguar
+113,24,Matagaia chromatopus
+114,24,Neonella noronha
+115,24,Typhochlaena curumim
+116,24,Harmonicon cerberus
+117,24,Speocera eleonorae
+118,24,Ybyrapora diversipes
+119,24,Ybyrapora gamba
+120,24,Typhochlaena seladonia
+121,24,Drymusa spelunca
+122,24,Isoctenus corymbus
+123,24,Ochyrocera ibitipoca
+124,24,Dolichothele diamantinensis
+125,24,Pterinopelma sazimai
+126,25,Ianduba paubrasil
+127,25,Celaetycheus mungunza
+128,25,Metagonia potiguar
+129,25,Matagaia chromatopus
+130,25,Neonella noronha
+131,25,Typhochlaena curumim
+132,25,Harmonicon cerberus
+133,25,Speocera eleonorae
+134,25,Ybyrapora diversipes
+135,25,Ybyrapora gamba
+136,25,Typhochlaena seladonia
+137,25,Drymusa spelunca
+138,25,Isoctenus corymbus
+139,25,Ochyrocera ibitipoca
+140,25,Dolichothele diamantinensis
+141,25,Pterinopelma sazimai
+142,26,Ianduba paubrasil
+143,26,Celaetycheus mungunza
+144,26,Metagonia potiguar
+145,26,Matagaia chromatopus
+146,26,Neonella noronha
+147,26,Typhochlaena curumim
+148,26,Harmonicon cerberus
+149,26,Speocera eleonorae
+150,26,Ybyrapora diversipes
+151,26,Ybyrapora gamba
+152,26,Typhochlaena seladonia
+153,26,Drymusa spelunca
+154,26,Isoctenus corymbus
+155,26,Ochyrocera ibitipoca
+156,26,Dolichothele diamantinensis
+157,26,Pterinopelma sazimai
+158,27,Discocyrtus pedrosoi
+159,28,Typhochlaena curumim
+160,28,Harmonicon cerberus
+161,28,Tmesiphantes hypogeus
+162,28,Ybyrapora diversipes
+163,28,Ybyrapora gamba
+164,28,Typhochlaena seladonia
+165,28,Dolichothele diamantinensis
+166,28,Pterinopelma sazimai
+167,29,Typhochlaena curumim
+168,29,Harmonicon cerberus
+169,29,Tmesiphantes hypogeus
+170,29,Ybyrapora diversipes
+171,29,Ybyrapora gamba
+172,29,Typhochlaena seladonia
+173,29,Dolichothele diamantinensis
+174,29,Pterinopelma sazimai
+175,30,Typhochlaena curumim
+176,30,Harmonicon cerberus
+177,30,Tmesiphantes hypogeus
+178,30,Ybyrapora diversipes
+179,30,Ybyrapora gamba
+180,30,Typhochlaena seladonia
+181,30,Dolichothele diamantinensis
+182,30,Pterinopelma sazimai
+183,31,Typhochlaena curumim
+184,31,Harmonicon cerberus
+185,31,Tmesiphantes hypogeus
+186,31,Ybyrapora diversipes
+187,31,Ybyrapora gamba
+188,31,Typhochlaena seladonia
+189,31,Dolichothele diamantinensis
+190,31,Pterinopelma sazimai
+191,32,Charinus acaraje
+192,32,Charinus potiguar
+193,32,Charinus eleonorae
+194,32,Charinus troglobius
+195,32,Charinus asturius
+196,33,Charinus acaraje
+197,33,Charinus potiguar
+198,33,Charinus eleonorae
+199,33,Charinus troglobius
+200,33,Charinus asturius
+201,34,Harmonicon cerberus
+202,35,Metagonia potiguar
+203,35,Metagonia diamantina
+204,36,Metagonia potiguar
+205,36,Metagonia diamantina
+206,37,Discocyrtus pedrosoi
+207,38,Ianduba paubrasil
+208,39,Matagaia chromatopus
+209,39,Neonella noronha
+210,40,Xiphocolaptes carajaensis
+211,41,Xiphocolaptes falcirostris
+212,42,Hylexetastes uniformis
+213,43,Campylorhamphus trochilirostris trochilirostris
+214,44,Procnias albus wallacei
+215,45,Pteroglossus bitorquatus bitorquatus
+216,46,Ceratophrys ornata
+217,47,Pteronura brasiliensis
+218,48,Megalobulimus cardosoi
+219,49,Mcclungia cymo fallens
+220,50,Episcada vitrea
+221,51,Caretta caretta
+222,52,Morpho menelaus eberti
+223,53,Chasmocranus brachynemus
+224,54,Xipholena lamellipennis
+225,55,Hydropsalis candicans
+226,56,Mycteroperca interstitialis
+227,57,Mycteroperca interstitialis
+228,58,Hyporthodus niveatus
+229,59,Epinephelus itajara
+230,60,Pimelodella kronei
+231,61,Rhamdiopsis krugi
+232,62,Trichomycterus dali
+233,63,Glaphyropoma spinosum
+234,63,Ituglanis epikarsticus
+235,63,Ituglanis passensis
+236,63,Ituglanis bambui
+237,63,Ituglanis ramiroi
+238,64,Chasmocranus brachynemus
+239,65,Heptapterus multiradiatus
+240,66,Taunayia bifasciata
+241,67,Sphaenorhynchus bromelicola
+242,68,Balaenoptera musculus
+243,69,Balaenoptera physalus
+244,70,Eubalaena australis
+245,71,Eubalaena australis
+246,72,Eubalaena australis
+247,73,Balaenoptera borealis
+248,74,Myrmecophaga tridactyla
+249,75,Phalloptychus eigenmanni
+250,75,Phallotorynus fasciolatus
+251,75,Cnesterodon carnegiei
+252,75,Cnesterodon omorgmatos
+253,76,Ceratophrys ornata
+254,77,Ateuchus squalidus
+255,78,Mustelus canis
+256,79,Xenops minutus alagoanus
+257,80,Sparisoma axillare
+258,80,Sparisoma frondosum
+259,81,Sparisoma axillare
+260,81,Sparisoma frondosum
+261,82,Mustelus schmitti
+262,83,Epinephelus itajara
+263,84,Mustelus canis
+264,85,Sparisoma rocha
+265,86,Drephalys mourei
+266,86,Parelbella polyzona
+267,86,Pseudocroniades machaon seabrai
+268,86,Turmosa camposa
+269,86,Magnastigma julia
+270,86,Strymon ohausi
+271,86,Actinote quadra
+272,86,Dasyophthalma geraensis
+273,86,Dasyophthalma rusina delanira
+274,86,Dasyophthalma vertebralis
+275,86,Doxocopa zalmunna
+276,86,Episcada vitrea
+277,86,Eresia erysice erysice
+278,86,Euptychia boulleti
+279,86,Hamadryas velutina browni
+280,86,Heliconius nattereri
+281,86,Hyalyris fiammetta
+282,86,Mcclungia cymo fallens
+283,86,Melinaea mnasias thera
+284,86,Morpho epistrophus nikolajewna
+285,86,Morpho menelaus eberti
+286,86,Napeogenes rhezia rhezia
+287,86,Orobrassolis ornamentalis
+288,86,Pampasatyrus glaucope glaucope
+289,86,Pampasatyrus gyrtone
+290,86,Paulogramma hydarnis
+291,86,Polygrapha suprema
+292,86,Prepona deiphile
+293,86,Scada karschina delicata
+294,86,Tithorea harmonia caissara
+295,86,Heraclides himeros baia
+296,86,Heraclides himeros himeros
+297,86,Mimoides lysithous harrisianus
+298,86,Mimoides lysithous sebastianus
+299,86,Parides bunichus chamissonia
+300,86,Parides klagesi
+301,86,Parides panthonus castilhoi
+302,86,Parides tros danunciae
+303,86,Charonias theano
+304,86,Cunizza hirlanda fulvinota
+305,86,Cunizza hirlanda planasia
+306,86,Glennia pylotis
+307,86,Moschoneura pinthous methymna
+308,86,Joiceya praeclarus
+309,86,Panara ovifera
+310,86,Petrocerus catiena
+311,86,Rhetus belphegor
+312,86,Voltinia sanarita
+313,86,Drephalys miersi
+314,86,Adelpha atlantica
+315,86,Forsterinaria itatiaia
+316,86,Pampasatyrus glaucope eberti
+317,86,Pampasatyrus reticulata gagarini
+318,86,Praepedaliodes sequeirae
+319,86,Yphthimoides iserhardi
+320,86,Actinote zikani
+321,86,Arawacus aethesa
+322,86,Perrhybris pamela flava
+323,86,Pampasatyrus glaucope boenninghauseni
+324,86,Zonia zonia diabo
+325,87,Drephalys mourei
+326,87,Parelbella polyzona
+327,87,Pseudocroniades machaon seabrai
+328,87,Turmosa camposa
+329,87,Magnastigma julia
+330,87,Strymon ohausi
+331,87,Actinote quadra
+332,87,Dasyophthalma geraensis
+333,87,Dasyophthalma rusina delanira
+334,87,Dasyophthalma vertebralis
+335,87,Doxocopa zalmunna
+336,87,Episcada vitrea
+337,87,Eresia erysice erysice
+338,87,Euptychia boulleti
+339,87,Hamadryas velutina browni
+340,87,Heliconius nattereri
+341,87,Hyalyris fiammetta
+342,87,Mcclungia cymo fallens
+343,87,Melinaea mnasias thera
+344,87,Morpho epistrophus nikolajewna
+345,87,Morpho menelaus eberti
+346,87,Napeogenes rhezia rhezia
+347,87,Orobrassolis ornamentalis
+348,87,Pampasatyrus glaucope glaucope
+349,87,Pampasatyrus gyrtone
+350,87,Paulogramma hydarnis
+351,87,Polygrapha suprema
+352,87,Prepona deiphile
+353,87,Scada karschina delicata
+354,87,Tithorea harmonia caissara
+355,87,Heraclides himeros baia
+356,87,Heraclides himeros himeros
+357,87,Mimoides lysithous harrisianus
+358,87,Mimoides lysithous sebastianus
+359,87,Parides bunichus chamissonia
+360,87,Parides klagesi
+361,87,Parides panthonus castilhoi
+362,87,Parides tros danunciae
+363,87,Charonias theano
+364,87,Cunizza hirlanda fulvinota
+365,87,Cunizza hirlanda planasia
+366,87,Glennia pylotis
+367,87,Moschoneura pinthous methymna
+368,87,Joiceya praeclarus
+369,87,Panara ovifera
+370,87,Petrocerus catiena
+371,87,Rhetus belphegor
+372,87,Voltinia sanarita
+373,87,Drephalys miersi
+374,87,Adelpha atlantica
+375,87,Forsterinaria itatiaia
+376,87,Pampasatyrus glaucope eberti
+377,87,Pampasatyrus reticulata gagarini
+378,87,Praepedaliodes sequeirae
+379,87,Yphthimoides iserhardi
+380,87,Actinote zikani
+381,87,Arawacus aethesa
+382,87,Perrhybris pamela flava
+383,87,Pampasatyrus glaucope boenninghauseni
+384,87,Zonia zonia diabo
+385,88,Drephalys mourei
+386,88,Parelbella polyzona
+387,88,Pseudocroniades machaon seabrai
+388,88,Turmosa camposa
+389,88,Magnastigma julia
+390,88,Strymon ohausi
+391,88,Actinote quadra
+392,88,Dasyophthalma geraensis
+393,88,Dasyophthalma rusina delanira
+394,88,Dasyophthalma vertebralis
+395,88,Doxocopa zalmunna
+396,88,Episcada vitrea
+397,88,Eresia erysice erysice
+398,88,Euptychia boulleti
+399,88,Hamadryas velutina browni
+400,88,Heliconius nattereri
+401,88,Hyalyris fiammetta
+402,88,Mcclungia cymo fallens
+403,88,Melinaea mnasias thera
+404,88,Morpho epistrophus nikolajewna
+405,88,Morpho menelaus eberti
+406,88,Napeogenes rhezia rhezia
+407,88,Orobrassolis ornamentalis
+408,88,Pampasatyrus glaucope glaucope
+409,88,Pampasatyrus gyrtone
+410,88,Paulogramma hydarnis
+411,88,Polygrapha suprema
+412,88,Prepona deiphile
+413,88,Scada karschina delicata
+414,88,Tithorea harmonia caissara
+415,88,Heraclides himeros baia
+416,88,Heraclides himeros himeros
+417,88,Mimoides lysithous harrisianus
+418,88,Mimoides lysithous sebastianus
+419,88,Parides bunichus chamissonia
+420,88,Parides klagesi
+421,88,Parides panthonus castilhoi
+422,88,Parides tros danunciae
+423,88,Charonias theano
+424,88,Cunizza hirlanda fulvinota
+425,88,Cunizza hirlanda planasia
+426,88,Glennia pylotis
+427,88,Moschoneura pinthous methymna
+428,88,Joiceya praeclarus
+429,88,Panara ovifera
+430,88,Petrocerus catiena
+431,88,Rhetus belphegor
+432,88,Voltinia sanarita
+433,88,Drephalys miersi
+434,88,Adelpha atlantica
+435,88,Forsterinaria itatiaia
+436,88,Pampasatyrus glaucope eberti
+437,88,Pampasatyrus reticulata gagarini
+438,88,Praepedaliodes sequeirae
+439,88,Yphthimoides iserhardi
+440,88,Actinote zikani
+441,88,Arawacus aethesa
+442,88,Perrhybris pamela flava
+443,88,Pampasatyrus glaucope boenninghauseni
+444,88,Zonia zonia diabo
+445,89,Drephalys mourei
+446,89,Parelbella polyzona
+447,89,Pseudocroniades machaon seabrai
+448,89,Turmosa camposa
+449,89,Magnastigma julia
+450,89,Strymon ohausi
+451,89,Actinote quadra
+452,89,Dasyophthalma geraensis
+453,89,Dasyophthalma rusina delanira
+454,89,Dasyophthalma vertebralis
+455,89,Doxocopa zalmunna
+456,89,Episcada vitrea
+457,89,Eresia erysice erysice
+458,89,Euptychia boulleti
+459,89,Hamadryas velutina browni
+460,89,Heliconius nattereri
+461,89,Hyalyris fiammetta
+462,89,Mcclungia cymo fallens
+463,89,Melinaea mnasias thera
+464,89,Morpho epistrophus nikolajewna
+465,89,Morpho menelaus eberti
+466,89,Napeogenes rhezia rhezia
+467,89,Orobrassolis ornamentalis
+468,89,Pampasatyrus glaucope glaucope
+469,89,Pampasatyrus gyrtone
+470,89,Paulogramma hydarnis
+471,89,Polygrapha suprema
+472,89,Prepona deiphile
+473,89,Scada karschina delicata
+474,89,Tithorea harmonia caissara
+475,89,Heraclides himeros baia
+476,89,Heraclides himeros himeros
+477,89,Mimoides lysithous harrisianus
+478,89,Mimoides lysithous sebastianus
+479,89,Parides bunichus chamissonia
+480,89,Parides klagesi
+481,89,Parides panthonus castilhoi
+482,89,Parides tros danunciae
+483,89,Charonias theano
+484,89,Cunizza hirlanda fulvinota
+485,89,Cunizza hirlanda planasia
+486,89,Glennia pylotis
+487,89,Moschoneura pinthous methymna
+488,89,Joiceya praeclarus
+489,89,Panara ovifera
+490,89,Petrocerus catiena
+491,89,Rhetus belphegor
+492,89,Voltinia sanarita
+493,89,Drephalys miersi
+494,89,Adelpha atlantica
+495,89,Forsterinaria itatiaia
+496,89,Pampasatyrus glaucope eberti
+497,89,Pampasatyrus reticulata gagarini
+498,89,Praepedaliodes sequeirae
+499,89,Yphthimoides iserhardi
+500,89,Actinote zikani
+501,89,Arawacus aethesa
+502,89,Perrhybris pamela flava
+503,89,Pampasatyrus glaucope boenninghauseni
+504,89,Zonia zonia diabo
+505,90,Drephalys mourei
+506,90,Parelbella polyzona
+507,90,Pseudocroniades machaon seabrai
+508,90,Turmosa camposa
+509,90,Magnastigma julia
+510,90,Strymon ohausi
+511,90,Actinote quadra
+512,90,Dasyophthalma geraensis
+513,90,Dasyophthalma rusina delanira
+514,90,Dasyophthalma vertebralis
+515,90,Doxocopa zalmunna
+516,90,Episcada vitrea
+517,90,Eresia erysice erysice
+518,90,Euptychia boulleti
+519,90,Hamadryas velutina browni
+520,90,Heliconius nattereri
+521,90,Hyalyris fiammetta
+522,90,Mcclungia cymo fallens
+523,90,Melinaea mnasias thera
+524,90,Morpho epistrophus nikolajewna
+525,90,Morpho menelaus eberti
+526,90,Napeogenes rhezia rhezia
+527,90,Orobrassolis ornamentalis
+528,90,Pampasatyrus glaucope glaucope
+529,90,Pampasatyrus gyrtone
+530,90,Paulogramma hydarnis
+531,90,Polygrapha suprema
+532,90,Prepona deiphile
+533,90,Scada karschina delicata
+534,90,Tithorea harmonia caissara
+535,90,Heraclides himeros baia
+536,90,Heraclides himeros himeros
+537,90,Mimoides lysithous harrisianus
+538,90,Mimoides lysithous sebastianus
+539,90,Parides bunichus chamissonia
+540,90,Parides klagesi
+541,90,Parides panthonus castilhoi
+542,90,Parides tros danunciae
+543,90,Charonias theano
+544,90,Cunizza hirlanda fulvinota
+545,90,Cunizza hirlanda planasia
+546,90,Glennia pylotis
+547,90,Moschoneura pinthous methymna
+548,90,Joiceya praeclarus
+549,90,Panara ovifera
+550,90,Petrocerus catiena
+551,90,Rhetus belphegor
+552,90,Voltinia sanarita
+553,90,Drephalys miersi
+554,90,Adelpha atlantica
+555,90,Forsterinaria itatiaia
+556,90,Pampasatyrus glaucope eberti
+557,90,Pampasatyrus reticulata gagarini
+558,90,Praepedaliodes sequeirae
+559,90,Yphthimoides iserhardi
+560,90,Actinote zikani
+561,90,Arawacus aethesa
+562,90,Perrhybris pamela flava
+563,90,Pampasatyrus glaucope boenninghauseni
+564,90,Zonia zonia diabo
+565,91,Drephalys mourei
+566,91,Parelbella polyzona
+567,91,Pseudocroniades machaon seabrai
+568,91,Turmosa camposa
+569,91,Magnastigma julia
+570,91,Strymon ohausi
+571,91,Actinote quadra
+572,91,Dasyophthalma geraensis
+573,91,Dasyophthalma rusina delanira
+574,91,Dasyophthalma vertebralis
+575,91,Doxocopa zalmunna
+576,91,Episcada vitrea
+577,91,Eresia erysice erysice
+578,91,Euptychia boulleti
+579,91,Hamadryas velutina browni
+580,91,Heliconius nattereri
+581,91,Hyalyris fiammetta
+582,91,Mcclungia cymo fallens
+583,91,Melinaea mnasias thera
+584,91,Morpho epistrophus nikolajewna
+585,91,Morpho menelaus eberti
+586,91,Napeogenes rhezia rhezia
+587,91,Orobrassolis ornamentalis
+588,91,Pampasatyrus glaucope glaucope
+589,91,Pampasatyrus gyrtone
+590,91,Paulogramma hydarnis
+591,91,Polygrapha suprema
+592,91,Prepona deiphile
+593,91,Scada karschina delicata
+594,91,Tithorea harmonia caissara
+595,91,Heraclides himeros baia
+596,91,Heraclides himeros himeros
+597,91,Mimoides lysithous harrisianus
+598,91,Mimoides lysithous sebastianus
+599,91,Parides bunichus chamissonia
+600,91,Parides klagesi
+601,91,Parides panthonus castilhoi
+602,91,Parides tros danunciae
+603,91,Charonias theano
+604,91,Cunizza hirlanda fulvinota
+605,91,Cunizza hirlanda planasia
+606,91,Glennia pylotis
+607,91,Moschoneura pinthous methymna
+608,91,Joiceya praeclarus
+609,91,Panara ovifera
+610,91,Petrocerus catiena
+611,91,Rhetus belphegor
+612,91,Voltinia sanarita
+613,91,Drephalys miersi
+614,91,Adelpha atlantica
+615,91,Forsterinaria itatiaia
+616,91,Pampasatyrus glaucope eberti
+617,91,Pampasatyrus reticulata gagarini
+618,91,Praepedaliodes sequeirae
+619,91,Yphthimoides iserhardi
+620,91,Actinote zikani
+621,91,Arawacus aethesa
+622,91,Perrhybris pamela flava
+623,91,Pampasatyrus glaucope boenninghauseni
+624,91,Zonia zonia diabo
+625,92,Drephalys mourei
+626,92,Parelbella polyzona
+627,92,Pseudocroniades machaon seabrai
+628,92,Turmosa camposa
+629,92,Magnastigma julia
+630,92,Strymon ohausi
+631,92,Actinote quadra
+632,92,Dasyophthalma geraensis
+633,92,Dasyophthalma rusina delanira
+634,92,Dasyophthalma vertebralis
+635,92,Doxocopa zalmunna
+636,92,Episcada vitrea
+637,92,Eresia erysice erysice
+638,92,Euptychia boulleti
+639,92,Hamadryas velutina browni
+640,92,Heliconius nattereri
+641,92,Hyalyris fiammetta
+642,92,Mcclungia cymo fallens
+643,92,Melinaea mnasias thera
+644,92,Morpho epistrophus nikolajewna
+645,92,Morpho menelaus eberti
+646,92,Napeogenes rhezia rhezia
+647,92,Orobrassolis ornamentalis
+648,92,Pampasatyrus glaucope glaucope
+649,92,Pampasatyrus gyrtone
+650,92,Paulogramma hydarnis
+651,92,Polygrapha suprema
+652,92,Prepona deiphile
+653,92,Scada karschina delicata
+654,92,Tithorea harmonia caissara
+655,92,Heraclides himeros baia
+656,92,Heraclides himeros himeros
+657,92,Mimoides lysithous harrisianus
+658,92,Mimoides lysithous sebastianus
+659,92,Parides bunichus chamissonia
+660,92,Parides klagesi
+661,92,Parides panthonus castilhoi
+662,92,Parides tros danunciae
+663,92,Charonias theano
+664,92,Cunizza hirlanda fulvinota
+665,92,Cunizza hirlanda planasia
+666,92,Glennia pylotis
+667,92,Moschoneura pinthous methymna
+668,92,Joiceya praeclarus
+669,92,Panara ovifera
+670,92,Petrocerus catiena
+671,92,Rhetus belphegor
+672,92,Voltinia sanarita
+673,92,Drephalys miersi
+674,92,Adelpha atlantica
+675,92,Forsterinaria itatiaia
+676,92,Pampasatyrus glaucope eberti
+677,92,Pampasatyrus reticulata gagarini
+678,92,Praepedaliodes sequeirae
+679,92,Yphthimoides iserhardi
+680,92,Actinote zikani
+681,92,Arawacus aethesa
+682,92,Perrhybris pamela flava
+683,92,Pampasatyrus glaucope boenninghauseni
+684,92,Zonia zonia diabo
+685,93,Drephalys mourei
+686,93,Parelbella polyzona
+687,93,Pseudocroniades machaon seabrai
+688,93,Turmosa camposa
+689,93,Magnastigma julia
+690,93,Strymon ohausi
+691,93,Actinote quadra
+692,93,Dasyophthalma geraensis
+693,93,Dasyophthalma rusina delanira
+694,93,Dasyophthalma vertebralis
+695,93,Doxocopa zalmunna
+696,93,Episcada vitrea
+697,93,Eresia erysice erysice
+698,93,Euptychia boulleti
+699,93,Hamadryas velutina browni
+700,93,Heliconius nattereri
+701,93,Hyalyris fiammetta
+702,93,Mcclungia cymo fallens
+703,93,Melinaea mnasias thera
+704,93,Morpho epistrophus nikolajewna
+705,93,Morpho menelaus eberti
+706,93,Napeogenes rhezia rhezia
+707,93,Orobrassolis ornamentalis
+708,93,Pampasatyrus glaucope glaucope
+709,93,Pampasatyrus gyrtone
+710,93,Paulogramma hydarnis
+711,93,Polygrapha suprema
+712,93,Prepona deiphile
+713,93,Scada karschina delicata
+714,93,Tithorea harmonia caissara
+715,93,Heraclides himeros baia
+716,93,Heraclides himeros himeros
+717,93,Mimoides lysithous harrisianus
+718,93,Mimoides lysithous sebastianus
+719,93,Parides bunichus chamissonia
+720,93,Parides klagesi
+721,93,Parides panthonus castilhoi
+722,93,Parides tros danunciae
+723,93,Charonias theano
+724,93,Cunizza hirlanda fulvinota
+725,93,Cunizza hirlanda planasia
+726,93,Glennia pylotis
+727,93,Moschoneura pinthous methymna
+728,93,Joiceya praeclarus
+729,93,Panara ovifera
+730,93,Petrocerus catiena
+731,93,Rhetus belphegor
+732,93,Voltinia sanarita
+733,93,Drephalys miersi
+734,93,Adelpha atlantica
+735,93,Forsterinaria itatiaia
+736,93,Pampasatyrus glaucope eberti
+737,93,Pampasatyrus reticulata gagarini
+738,93,Praepedaliodes sequeirae
+739,93,Yphthimoides iserhardi
+740,93,Actinote zikani
+741,93,Arawacus aethesa
+742,93,Perrhybris pamela flava
+743,93,Pampasatyrus glaucope boenninghauseni
+744,93,Zonia zonia diabo
+745,94,Drephalys mourei
+746,94,Parelbella polyzona
+747,94,Pseudocroniades machaon seabrai
+748,94,Turmosa camposa
+749,94,Magnastigma julia
+750,94,Strymon ohausi
+751,94,Actinote quadra
+752,94,Dasyophthalma geraensis
+753,94,Dasyophthalma rusina delanira
+754,94,Dasyophthalma vertebralis
+755,94,Doxocopa zalmunna
+756,94,Episcada vitrea
+757,94,Eresia erysice erysice
+758,94,Euptychia boulleti
+759,94,Hamadryas velutina browni
+760,94,Heliconius nattereri
+761,94,Hyalyris fiammetta
+762,94,Mcclungia cymo fallens
+763,94,Melinaea mnasias thera
+764,94,Morpho epistrophus nikolajewna
+765,94,Morpho menelaus eberti
+766,94,Napeogenes rhezia rhezia
+767,94,Orobrassolis ornamentalis
+768,94,Pampasatyrus glaucope glaucope
+769,94,Pampasatyrus gyrtone
+770,94,Paulogramma hydarnis
+771,94,Polygrapha suprema
+772,94,Prepona deiphile
+773,94,Scada karschina delicata
+774,94,Tithorea harmonia caissara
+775,94,Heraclides himeros baia
+776,94,Heraclides himeros himeros
+777,94,Mimoides lysithous harrisianus
+778,94,Mimoides lysithous sebastianus
+779,94,Parides bunichus chamissonia
+780,94,Parides klagesi
+781,94,Parides panthonus castilhoi
+782,94,Parides tros danunciae
+783,94,Charonias theano
+784,94,Cunizza hirlanda fulvinota
+785,94,Cunizza hirlanda planasia
+786,94,Glennia pylotis
+787,94,Moschoneura pinthous methymna
+788,94,Joiceya praeclarus
+789,94,Panara ovifera
+790,94,Petrocerus catiena
+791,94,Rhetus belphegor
+792,94,Voltinia sanarita
+793,94,Drephalys miersi
+794,94,Adelpha atlantica
+795,94,Forsterinaria itatiaia
+796,94,Pampasatyrus glaucope eberti
+797,94,Pampasatyrus reticulata gagarini
+798,94,Praepedaliodes sequeirae
+799,94,Yphthimoides iserhardi
+800,94,Actinote zikani
+801,94,Arawacus aethesa
+802,94,Perrhybris pamela flava
+803,94,Pampasatyrus glaucope boenninghauseni
+804,94,Zonia zonia diabo
+805,95,Drephalys mourei
+806,95,Parelbella polyzona
+807,95,Pseudocroniades machaon seabrai
+808,95,Turmosa camposa
+809,95,Magnastigma julia
+810,95,Strymon ohausi
+811,95,Actinote quadra
+812,95,Dasyophthalma geraensis
+813,95,Dasyophthalma rusina delanira
+814,95,Dasyophthalma vertebralis
+815,95,Doxocopa zalmunna
+816,95,Episcada vitrea
+817,95,Eresia erysice erysice
+818,95,Euptychia boulleti
+819,95,Hamadryas velutina browni
+820,95,Heliconius nattereri
+821,95,Hyalyris fiammetta
+822,95,Mcclungia cymo fallens
+823,95,Melinaea mnasias thera
+824,95,Morpho epistrophus nikolajewna
+825,95,Morpho menelaus eberti
+826,95,Napeogenes rhezia rhezia
+827,95,Orobrassolis ornamentalis
+828,95,Pampasatyrus glaucope glaucope
+829,95,Pampasatyrus gyrtone
+830,95,Paulogramma hydarnis
+831,95,Polygrapha suprema
+832,95,Prepona deiphile
+833,95,Scada karschina delicata
+834,95,Tithorea harmonia caissara
+835,95,Heraclides himeros baia
+836,95,Heraclides himeros himeros
+837,95,Mimoides lysithous harrisianus
+838,95,Mimoides lysithous sebastianus
+839,95,Parides bunichus chamissonia
+840,95,Parides klagesi
+841,95,Parides panthonus castilhoi
+842,95,Parides tros danunciae
+843,95,Charonias theano
+844,95,Cunizza hirlanda fulvinota
+845,95,Cunizza hirlanda planasia
+846,95,Glennia pylotis
+847,95,Moschoneura pinthous methymna
+848,95,Joiceya praeclarus
+849,95,Panara ovifera
+850,95,Petrocerus catiena
+851,95,Rhetus belphegor
+852,95,Voltinia sanarita
+853,95,Drephalys miersi
+854,95,Adelpha atlantica
+855,95,Forsterinaria itatiaia
+856,95,Pampasatyrus glaucope eberti
+857,95,Pampasatyrus reticulata gagarini
+858,95,Praepedaliodes sequeirae
+859,95,Yphthimoides iserhardi
+860,95,Actinote zikani
+861,95,Arawacus aethesa
+862,95,Perrhybris pamela flava
+863,95,Pampasatyrus glaucope boenninghauseni
+864,95,Zonia zonia diabo
+865,96,Drephalys mourei
+866,96,Parelbella polyzona
+867,96,Pseudocroniades machaon seabrai
+868,96,Turmosa camposa
+869,96,Magnastigma julia
+870,96,Strymon ohausi
+871,96,Actinote quadra
+872,96,Dasyophthalma geraensis
+873,96,Dasyophthalma rusina delanira
+874,96,Dasyophthalma vertebralis
+875,96,Doxocopa zalmunna
+876,96,Episcada vitrea
+877,96,Eresia erysice erysice
+878,96,Euptychia boulleti
+879,96,Hamadryas velutina browni
+880,96,Heliconius nattereri
+881,96,Hyalyris fiammetta
+882,96,Mcclungia cymo fallens
+883,96,Melinaea mnasias thera
+884,96,Morpho epistrophus nikolajewna
+885,96,Morpho menelaus eberti
+886,96,Napeogenes rhezia rhezia
+887,96,Orobrassolis ornamentalis
+888,96,Pampasatyrus glaucope glaucope
+889,96,Pampasatyrus gyrtone
+890,96,Paulogramma hydarnis
+891,96,Polygrapha suprema
+892,96,Prepona deiphile
+893,96,Scada karschina delicata
+894,96,Tithorea harmonia caissara
+895,96,Heraclides himeros baia
+896,96,Heraclides himeros himeros
+897,96,Mimoides lysithous harrisianus
+898,96,Mimoides lysithous sebastianus
+899,96,Parides bunichus chamissonia
+900,96,Parides klagesi
+901,96,Parides panthonus castilhoi
+902,96,Parides tros danunciae
+903,96,Charonias theano
+904,96,Cunizza hirlanda fulvinota
+905,96,Cunizza hirlanda planasia
+906,96,Glennia pylotis
+907,96,Moschoneura pinthous methymna
+908,96,Joiceya praeclarus
+909,96,Panara ovifera
+910,96,Petrocerus catiena
+911,96,Rhetus belphegor
+912,96,Voltinia sanarita
+913,96,Drephalys miersi
+914,96,Adelpha atlantica
+915,96,Forsterinaria itatiaia
+916,96,Pampasatyrus glaucope eberti
+917,96,Pampasatyrus reticulata gagarini
+918,96,Praepedaliodes sequeirae
+919,96,Yphthimoides iserhardi
+920,96,Actinote zikani
+921,96,Arawacus aethesa
+922,96,Perrhybris pamela flava
+923,96,Pampasatyrus glaucope boenninghauseni
+924,96,Zonia zonia diabo
+925,97,Drephalys mourei
+926,97,Parelbella polyzona
+927,97,Pseudocroniades machaon seabrai
+928,97,Turmosa camposa
+929,97,Magnastigma julia
+930,97,Strymon ohausi
+931,97,Actinote quadra
+932,97,Dasyophthalma geraensis
+933,97,Dasyophthalma rusina delanira
+934,97,Dasyophthalma vertebralis
+935,97,Doxocopa zalmunna
+936,97,Episcada vitrea
+937,97,Eresia erysice erysice
+938,97,Euptychia boulleti
+939,97,Hamadryas velutina browni
+940,97,Heliconius nattereri
+941,97,Hyalyris fiammetta
+942,97,Mcclungia cymo fallens
+943,97,Melinaea mnasias thera
+944,97,Morpho epistrophus nikolajewna
+945,97,Morpho menelaus eberti
+946,97,Napeogenes rhezia rhezia
+947,97,Orobrassolis ornamentalis
+948,97,Pampasatyrus glaucope glaucope
+949,97,Pampasatyrus gyrtone
+950,97,Paulogramma hydarnis
+951,97,Polygrapha suprema
+952,97,Prepona deiphile
+953,97,Scada karschina delicata
+954,97,Tithorea harmonia caissara
+955,97,Heraclides himeros baia
+956,97,Heraclides himeros himeros
+957,97,Mimoides lysithous harrisianus
+958,97,Mimoides lysithous sebastianus
+959,97,Parides bunichus chamissonia
+960,97,Parides klagesi
+961,97,Parides panthonus castilhoi
+962,97,Parides tros danunciae
+963,97,Charonias theano
+964,97,Cunizza hirlanda fulvinota
+965,97,Cunizza hirlanda planasia
+966,97,Glennia pylotis
+967,97,Moschoneura pinthous methymna
+968,97,Joiceya praeclarus
+969,97,Panara ovifera
+970,97,Petrocerus catiena
+971,97,Rhetus belphegor
+972,97,Voltinia sanarita
+973,97,Drephalys miersi
+974,97,Adelpha atlantica
+975,97,Forsterinaria itatiaia
+976,97,Pampasatyrus glaucope eberti
+977,97,Pampasatyrus reticulata gagarini
+978,97,Praepedaliodes sequeirae
+979,97,Yphthimoides iserhardi
+980,97,Actinote zikani
+981,97,Arawacus aethesa
+982,97,Perrhybris pamela flava
+983,97,Pampasatyrus glaucope boenninghauseni
+984,97,Zonia zonia diabo
+985,98,Drephalys mourei
+986,98,Parelbella polyzona
+987,98,Pseudocroniades machaon seabrai
+988,98,Turmosa camposa
+989,98,Magnastigma julia
+990,98,Strymon ohausi
+991,98,Actinote quadra
+992,98,Dasyophthalma geraensis
+993,98,Dasyophthalma rusina delanira
+994,98,Dasyophthalma vertebralis
+995,98,Doxocopa zalmunna
+996,98,Episcada vitrea
+997,98,Eresia erysice erysice
+998,98,Euptychia boulleti
+999,98,Hamadryas velutina browni
+1000,98,Heliconius nattereri
+1001,98,Hyalyris fiammetta
+1002,98,Mcclungia cymo fallens
+1003,98,Melinaea mnasias thera
+1004,98,Morpho epistrophus nikolajewna
+1005,98,Morpho menelaus eberti
+1006,98,Napeogenes rhezia rhezia
+1007,98,Orobrassolis ornamentalis
+1008,98,Pampasatyrus glaucope glaucope
+1009,98,Pampasatyrus gyrtone
+1010,98,Paulogramma hydarnis
+1011,98,Polygrapha suprema
+1012,98,Prepona deiphile
+1013,98,Scada karschina delicata
+1014,98,Tithorea harmonia caissara
+1015,98,Heraclides himeros baia
+1016,98,Heraclides himeros himeros
+1017,98,Mimoides lysithous harrisianus
+1018,98,Mimoides lysithous sebastianus
+1019,98,Parides bunichus chamissonia
+1020,98,Parides klagesi
+1021,98,Parides panthonus castilhoi
+1022,98,Parides tros danunciae
+1023,98,Charonias theano
+1024,98,Cunizza hirlanda fulvinota
+1025,98,Cunizza hirlanda planasia
+1026,98,Glennia pylotis
+1027,98,Moschoneura pinthous methymna
+1028,98,Joiceya praeclarus
+1029,98,Panara ovifera
+1030,98,Petrocerus catiena
+1031,98,Rhetus belphegor
+1032,98,Voltinia sanarita
+1033,98,Drephalys miersi
+1034,98,Adelpha atlantica
+1035,98,Forsterinaria itatiaia
+1036,98,Pampasatyrus glaucope eberti
+1037,98,Pampasatyrus reticulata gagarini
+1038,98,Praepedaliodes sequeirae
+1039,98,Yphthimoides iserhardi
+1040,98,Actinote zikani
+1041,98,Arawacus aethesa
+1042,98,Perrhybris pamela flava
+1043,98,Pampasatyrus glaucope boenninghauseni
+1044,98,Zonia zonia diabo
+1045,99,Drephalys mourei
+1046,99,Parelbella polyzona
+1047,99,Pseudocroniades machaon seabrai
+1048,99,Turmosa camposa
+1049,99,Magnastigma julia
+1050,99,Strymon ohausi
+1051,99,Actinote quadra
+1052,99,Dasyophthalma geraensis
+1053,99,Dasyophthalma rusina delanira
+1054,99,Dasyophthalma vertebralis
+1055,99,Doxocopa zalmunna
+1056,99,Episcada vitrea
+1057,99,Eresia erysice erysice
+1058,99,Euptychia boulleti
+1059,99,Hamadryas velutina browni
+1060,99,Heliconius nattereri
+1061,99,Hyalyris fiammetta
+1062,99,Mcclungia cymo fallens
+1063,99,Melinaea mnasias thera
+1064,99,Morpho epistrophus nikolajewna
+1065,99,Morpho menelaus eberti
+1066,99,Napeogenes rhezia rhezia
+1067,99,Orobrassolis ornamentalis
+1068,99,Pampasatyrus glaucope glaucope
+1069,99,Pampasatyrus gyrtone
+1070,99,Paulogramma hydarnis
+1071,99,Polygrapha suprema
+1072,99,Prepona deiphile
+1073,99,Scada karschina delicata
+1074,99,Tithorea harmonia caissara
+1075,99,Heraclides himeros baia
+1076,99,Heraclides himeros himeros
+1077,99,Mimoides lysithous harrisianus
+1078,99,Mimoides lysithous sebastianus
+1079,99,Parides bunichus chamissonia
+1080,99,Parides klagesi
+1081,99,Parides panthonus castilhoi
+1082,99,Parides tros danunciae
+1083,99,Charonias theano
+1084,99,Cunizza hirlanda fulvinota
+1085,99,Cunizza hirlanda planasia
+1086,99,Glennia pylotis
+1087,99,Moschoneura pinthous methymna
+1088,99,Joiceya praeclarus
+1089,99,Panara ovifera
+1090,99,Petrocerus catiena
+1091,99,Rhetus belphegor
+1092,99,Voltinia sanarita
+1093,99,Drephalys miersi
+1094,99,Adelpha atlantica
+1095,99,Forsterinaria itatiaia
+1096,99,Pampasatyrus glaucope eberti
+1097,99,Pampasatyrus reticulata gagarini
+1098,99,Praepedaliodes sequeirae
+1099,99,Yphthimoides iserhardi
+1100,99,Actinote zikani
+1101,99,Arawacus aethesa
+1102,99,Perrhybris pamela flava
+1103,99,Pampasatyrus glaucope boenninghauseni
+1104,99,Zonia zonia diabo
+1105,100,Strymon ohausi
+1106,100,Joiceya praeclarus
+1107,100,Petrocerus catiena
+1108,100,Arawacus aethesa
+1109,101,Strymon ohausi
+1110,101,Joiceya praeclarus
+1111,101,Petrocerus catiena
+1112,101,Arawacus aethesa
+1113,102,Strymon ohausi
+1114,102,Joiceya praeclarus
+1115,102,Petrocerus catiena
+1116,102,Arawacus aethesa
+1117,103,Parides ascanius
+1118,104,Actinote quadra
+1119,104,Actinote zikani
+1120,105,Parides burchellanus
+1121,106,Inia geoffrensis
+1122,106,Sotalia guianensis
+1123,106,Tursiops gephyreus
+1124,107,Inia geoffrensis
+1125,107,Sotalia guianensis
+1126,107,Tursiops gephyreus
+1127,108,Inia geoffrensis
+1128,108,Sotalia guianensis
+1129,108,Tursiops gephyreus
+1130,109,Inia geoffrensis
+1131,110,Pontoporia blainvillei
+1132,111,Pontoporia blainvillei
+1133,112,Sotalia guianensis
+1134,113,Inia geoffrensis
+1135,114,Tursiops gephyreus
+1136,115,Tursiops gephyreus
+1137,116,Inia araguaiaensis
+1138,117,Inia geoffrensis
+1139,118,Chaetomys subspinosus
+1140,119,Chaetomys subspinosus
+1141,120,Xenohyla truncata
+1142,121,Sparisoma axillare
+1143,121,Sparisoma frondosum
+1144,122,Sparisoma axillare
+1145,122,Sparisoma frondosum
+1146,123,Halichoeres rubrovirens
+1147,124,Euryoryzomys lamia
+1148,125,Brachyteles arachnoides
+1149,126,Brachyteles arachnoides
+1150,127,Lepidothrix iris
+1151,128,Carcharhinus obscurus
+1152,129,Mycteroperca interstitialis
+1153,130,Mycteroperca interstitialis
+1154,131,Glaucidium mooreorum
+1155,132,Physeter macrocephalus
+1156,133,Atelocynus microtis
+1157,134,Cebus kaapori
+1158,135,Hyalella caeca
+1159,136,Lophiosilurus alexandri
+1160,136,Sphyrna mokarran
+1161,137,Lophiosilurus alexandri
+1162,137,Sphyrna mokarran
+1163,138,Cambeva paolence
+1164,139,Listrura camposi
+1165,140,Sphyrna zygaena
+1166,141,Juscelinomys candango
+1167,142,Juscelinomys candango
+1168,143,Cambeva crassicaudata
+1169,143,Cambeva igobi
+1170,143,Cambeva mboycy
+1171,144,Mustelus schmitti
+1172,145,Panthera onca
+1173,146,Characidium grajahuensis
+1174,147,Hypocnemis striata
+1175,148,Akodon mystax
+1176,149,Tomigerus gibberulus
+1177,149,Hypselartemon alveus
+1178,150,Gonyostomus insularis
+1179,151,Potamolithus karsticus
+1180,152,Pomacea sordida
+1181,152,Lymnaea rupestris
+1182,152,Plesiophysa dolichomastix
+1183,153,Pomacea sordida
+1184,153,Lymnaea rupestris
+1185,153,Plesiophysa dolichomastix
+1186,154,Pomacea sordida
+1187,154,Lymnaea rupestris
+1188,154,Plesiophysa dolichomastix
+1189,155,Potamolithus troglobius
+1190,156,Plesiophysa dolichomastix
+1191,157,Potamolithus troglobius
+1192,158,Johngarthia lagostoma
+1193,159,Lutjanus cyanopterus
+1194,160,Lutjanus cyanopterus
+1195,161,Lutjanus cyanopterus
+1196,162,Caretta caretta
+1197,163,Dermochelys coriacea
+1198,164,Dermochelys coriacea
+1199,165,Rhipidomys cariri
+1200,166,Plesioptopoma curvidens
+1201,166,Microlepidogaster perforatus
+1202,166,Parotocinclus spilurus
+1203,167,Otothyris juquiae
+1204,168,Ancistrus cryptophthalmus
+1205,169,Pseudotocinclus juquiae
+1206,170,Pseudotocinclus tietensis
+1207,171,Neoplecostomus botucatu
+1208,171,Pogonopoma parahybae
+1209,171,Delturus parahybae
+1210,171,Hypostomus subcarinatus
+1211,171,Isbrueckerichthys saxicola
+1212,172,Neoplecostomus botucatu
+1213,172,Pogonopoma parahybae
+1214,172,Delturus parahybae
+1215,172,Hypostomus subcarinatus
+1216,172,Isbrueckerichthys saxicola
+1217,173,Ancistrus formoso
+1218,174,Delturus parahybae
+1219,175,Pogonopoma obscurum
+1220,176,Squatina occulta
+1221,177,Squatina argentina
+1222,178,Squatina guggenheim
+1223,179,Squatina guggenheim
+1224,180,Squatina occulta
+1225,181,Carcharhinus porosus
+1226,182,Carcharhinus obscurus
+1227,183,Galeorhinus galeus
+1228,183,Mustelus schmitti
+1229,184,Galeorhinus galeus
+1230,184,Mustelus schmitti
+1231,185,Mustelus canis
+1232,186,Notorynchus cepedianus
+1233,187,Mustelus schmitti
+1234,188,Rhincodon typus
+1235,189,Carcharhinus obscurus
+1236,190,Mustelus fasciatus
+1237,191,Ginglymostoma cirratum
+1238,192,Mustelus fasciatus
+1239,193,Sphyrna media
+1240,194,Carcharhinus signatus
+1241,195,Isogomphodon oxyrhynchus
+1242,196,Mustelus schmitti
+1243,197,Cryptops iporangensis
+1244,197,Cryptops spelaeoraptor
+1245,197,Scolopendropsis duplicata
+1246,198,Hyporthodus niveatus
+1247,199,Gyldenstolpia planaltensis
+1248,200,Thalpomys cerradensis
+1249,201,Hyporthodus niveatus
+1250,202,Hyporthodus niveatus
+1251,203,Hyporthodus niveatus
+1252,204,Hyporthodus niveatus
+1253,205,Hyporthodus niveatus
+1254,206,Hyporthodus niveatus
+1255,207,Hyporthodus niveatus
+1256,208,Hyporthodus niveatus
+1257,209,Laniisoma elegans
+1258,210,Thamnophilus caerulescens cearensis
+1259,211,Thamnophilus aethiops distans
+1260,212,Dysithamnus plumbeus
+1261,213,Myrmotherula urosticta
+1262,214,Monasa morphoeus morphoeus
+1263,215,Conopophaga cearae
+1264,215,Conopophaga lineata lineata
+1265,216,Conopophaga cearae
+1266,216,Conopophaga lineata lineata
+1267,217,Leopardus tigrinus
+1268,218,Kerodon acrobata
+1269,219,Coendou speratus
+1270,220,Ateles chamek
+1271,221,Ateles marginatus
+1272,222,Ateles chamek
+1273,223,Atractus ronnie
+1274,224,Apostolepis arenaria
+1275,225,Acherontides eleonorae
+1276,225,Arrhopalites alambariensis
+1277,225,Arrhopalites botuveraensis
+1278,225,Arrhopalites gnaspinii
+1279,225,Arrhopalites heteroculatus
+1280,225,Arrhopalites lawrencei
+1281,225,Arrhopalites paranaensis
+1282,225,Pararrhopalites papaveroi
+1283,225,Troglobius brasiliensis
+1284,225,Troglobius ferroicus
+1285,225,Trogolaphysa aelleni
+1286,225,Archisotoma arariboia
+1287,225,Pseudosinella ambigua
+1288,225,Seira arenicola
+1289,225,Isotomiella uai
+1290,225,Archisotoma catiae
+1291,225,Maricaella duna
+1292,225,Aethiopella littoralis
+1293,225,Seira mataraquensis
+1294,225,Seira musarum
+1295,225,Agraphorura mariapetrae
+1296,225,Isotomodes cariocus
+1297,225,Psammisotoma restingae
+1298,225,Arlea arenicola
+1299,225,Paracerura gandarela
+1300,225,Hyleanura mendoncae
+1301,225,Mesaphorura maricaensis
+1302,225,Seira pseudoannulata
+1303,225,Arlesia intermedia
+1304,225,Isotomurus riparius
+1305,225,Arlea psammophila
+1306,225,Micranurida fluminensis
+1307,226,Pseudoseisura lophotes
+1308,227,Conorhynchos conirostris
+1309,228,Philodryas livida
+1310,229,Coryphistera alaudina
+1311,230,Ateles marginatus
+1312,231,Pyrilia vulturina
+1313,232,Geositta poeciloptera
+1314,233,Rhinella casconi
+1315,234,Chiropotes utahickae
+1316,235,Chiropotes satanas
+1317,236,Lepidothrix vilasboasi
+1318,237,Trinomys mirapitanga
+1319,238,Drephalys mourei
+1320,238,Parelbella polyzona
+1321,238,Drephalys miersi
+1322,238,Zonia zonia diabo
+1323,239,Microspathodon chrysurus
+1324,240,Stegastes sanctipauli
+1325,241,Stegastes trindadensis
+1326,242,Leptagrion bocainense
+1327,243,Leptagrion bocainense
+1328,244,Adebrotus lugoi
+1329,244,Camelobaetidius juparana
+1330,244,Camelobaetidius maranhensis
+1331,244,Simothraulopsis eurybasis
+1332,245,Adebrotus lugoi
+1333,245,Camelobaetidius juparana
+1334,245,Camelobaetidius maranhensis
+1335,245,Simothraulopsis eurybasis
+1336,246,Adebrotus lugoi
+1337,246,Camelobaetidius juparana
+1338,246,Camelobaetidius maranhensis
+1339,246,Simothraulopsis eurybasis
+1340,247,Aegla franca
+1341,247,Aegla leptodactyla
+1342,247,Aegla perobae
+1343,247,Aegla renana
+1344,247,Aegla cavernicola
+1345,247,Aegla leptochela
+1346,247,Aegla microphthalma
+1347,247,Aegla brevipalma
+1348,247,Aegla camargoi
+1349,247,Aegla inconspicua
+1350,247,Aegla inermis
+1351,247,Aegla itacolomiensis
+1352,247,Aegla leachi
+1353,247,Aegla manuinflata
+1354,247,Aegla oblata
+1355,247,Aegla obstipa
+1356,247,Aegla violacea
+1357,248,Trinomys eliasi
+1358,249,Peridontodesmella alba
+1359,249,Pseudonannolene spelaea
+1360,249,Sandalodesmus stramineus
+1361,250,Peridontodesmella alba
+1362,250,Pseudonannolene spelaea
+1363,250,Sandalodesmus stramineus
+1364,251,Ananteris infuscata
+1365,251,Hadrurochactas araripe
+1366,251,Hadrurochactas brejo
+1367,251,Troglorhopalurus translucidus
+1368,252,Ananteris infuscata
+1369,252,Hadrurochactas araripe
+1370,252,Hadrurochactas brejo
+1371,252,Troglorhopalurus translucidus
+1372,253,Rowlandius ubajara
+1373,254,Epinephelus marginatus
+1374,255,Halichondria cebimarensis
+1375,255,Halichondria tenebrica
+1376,255,Corvomeyenia epilithosa
+1377,255,Latrunculia janeirensis
+1378,255,Racekiela cavernicola
+1379,256,Luidia senegalensis
+1380,257,Joiceya praeclarus
+1381,257,Rhetus belphegor
+1382,257,Voltinia sanarita
+1383,258,Joiceya praeclarus
+1384,258,Rhetus belphegor
+1385,258,Voltinia sanarita
+1386,259,Drymusa spelunca
+1387,260,Mycetopoda legumen
+1388,261,Schiffornis turdina intermedia
+1389,262,Physalaemus soaresi
+1390,263,Dinoponera lucida
+1391,263,Gnamptogenys wilsoni
+1392,263,Mycetophylax simplex
+1393,263,Mycetomoellerius atlanticus
+1394,263,Atta robusta
+1395,263,Brachymyrmex micromegas
+1396,263,Diaphoromyrma sofiae
+1397,263,Monomorium delabiei
+1398,263,Mycetagroicus urbanus
+1399,263,Rhopalothrix plaumanni
+1400,263,Fulakora cleae
+1401,264,Dinoponera lucida
+1402,264,Gnamptogenys wilsoni
+1403,264,Mycetophylax simplex
+1404,264,Mycetomoellerius atlanticus
+1405,264,Atta robusta
+1406,264,Brachymyrmex micromegas
+1407,264,Diaphoromyrma sofiae
+1408,264,Monomorium delabiei
+1409,264,Mycetagroicus urbanus
+1410,264,Rhopalothrix plaumanni
+1411,264,Fulakora cleae
+1412,265,Dinoponera lucida
+1413,265,Gnamptogenys wilsoni
+1414,265,Mycetophylax simplex
+1415,265,Mycetomoellerius atlanticus
+1416,265,Atta robusta
+1417,265,Brachymyrmex micromegas
+1418,265,Diaphoromyrma sofiae
+1419,265,Monomorium delabiei
+1420,265,Mycetagroicus urbanus
+1421,265,Rhopalothrix plaumanni
+1422,265,Fulakora cleae
+1423,266,Mycetagroicus urbanus
+1424,267,Mycetagroicus urbanus
+1425,268,Gyldenstolpia planaltensis
+1426,269,Neopelma aurifrons
+1427,270,Peridontodesmella alba
+1428,270,Pseudonannolene spelaea
+1429,270,Sandalodesmus stramineus
+1430,271,Peridontodesmella alba
+1431,271,Pseudonannolene spelaea
+1432,271,Sandalodesmus stramineus
+1433,272,Chaetomys subspinosus
+1434,273,Epinephelus marginatus
+1435,274,Hyporthodus niveatus
+1436,275,Epinephelus marginatus
+1437,276,Herpailurus yagouaroundi
+1438,277,Leopardus geoffroyi
+1439,277,Leopardus guttulus
+1440,277,Leopardus tigrinus
+1441,277,Leopardus wiedii
+1442,278,Leopardus geoffroyi
+1443,278,Leopardus guttulus
+1444,278,Leopardus tigrinus
+1445,278,Leopardus wiedii
+1446,279,Leopardus geoffroyi
+1447,279,Leopardus guttulus
+1448,279,Leopardus tigrinus
+1449,279,Leopardus wiedii
+1450,280,Leopardus geoffroyi
+1451,280,Leopardus guttulus
+1452,280,Leopardus tigrinus
+1453,280,Leopardus wiedii
+1454,281,Leopardus guttulus
+1455,282,Leopardus geoffroyi
+1456,283,Leopardus tigrinus
+1457,284,Leopardus tigrinus
+1458,285,Leopardus tigrinus
+1459,286,Leopardus tigrinus
+1460,286,Leopardus wiedii
+1461,287,Leopardus tigrinus
+1462,287,Leopardus wiedii
+1463,288,Leopardus tigrinus
+1464,289,Herpailurus yagouaroundi
+1465,290,Leopardus wiedii
+1466,291,Herpailurus yagouaroundi
+1467,292,Phyllomys thomasi
+1468,293,Tursiops gephyreus
+1469,294,Tursiops gephyreus
+1470,295,Peridontodesmella alba
+1471,295,Pseudonannolene spelaea
+1472,295,Sandalodesmus stramineus
+1473,296,Peridontodesmella alba
+1474,296,Pseudonannolene spelaea
+1475,296,Sandalodesmus stramineus
+1476,297,Rhopornis ardesiacus
+1477,298,Cichlocolaptes mazarbarnetti
+1478,299,Cardisoma guanhumi
+1479,300,Alouatta belzebul
+1480,300,Alouatta ululata
+1481,301,Alouatta belzebul
+1482,301,Alouatta ululata
+1483,302,Alouatta belzebul
+1484,302,Alouatta discolor
+1485,303,Alouatta belzebul
+1486,303,Alouatta discolor
+1487,304,Chrysocyon brachyurus
+1488,305,Cnesterodon iguape
+1489,306,Ateles marginatus
+1490,307,Callicebus melanochir
+1491,307,Callicebus coimbrai
+1492,307,Callicebus personatus
+1493,308,Callicebus melanochir
+1494,308,Callicebus coimbrai
+1495,308,Callicebus personatus
+1496,309,Callicebus melanochir
+1497,309,Callicebus coimbrai
+1498,309,Callicebus personatus
+1499,310,Callicebus coimbrai
+1500,311,Callicebus coimbrai
+1501,312,Callicebus personatus
+1502,313,Cavia intermedia
+1503,314,Thalpomys lasiotis
+1504,315,Ditaxodon taeniatus
+1505,316,Thamnomanes caesius caesius
+1506,317,Crossodactylodes itambe
+1507,318,Holoaden bradei
+1508,319,Hylodes glaber
+1509,320,Eigenmannia vicentespelaea
+1510,320,Sternarchella curvioperculata
+1511,320,Sternarchorhynchus britskii
+1512,320,Sternarchorhynchus severii
+1513,321,Tembeassu marauna
+1514,322,Xenohyla truncata
+1515,323,Euparkerella robusta
+1516,324,Psophia obscura
+1517,325,Psophia dextralis
+1518,326,Psophia interjecta
+1519,327,Neomorphus squamiger
+1520,328,Penelope superciliaris alagoensis
+1521,329,Neomorphus geoffroyi geoffroyi
+1522,329,Neomorphus geoffroyi
+1523,329,Neomorphus geoffroyi amazonicus
+1524,329,Neomorphus geoffroyi dulcis
+1525,330,Penelope jacucaca
+1526,331,Penelope superciliaris alagoensis
+1527,332,Penelope pileata
+1528,333,Herpailurus yagouaroundi
+1529,334,Bothrops muriciensis
+1530,335,Tropidophis grapiuna
+1531,336,Crenicichla empheres
+1532,336,Crenicichla hadrostigma
+1533,337,Crenicichla jupiaensis
+1534,338,Myrmecophaga tridactyla
+1535,339,Anablepsoides cearensis
+1536,339,Hypsolebias gilbertobrasili
+1537,340,Anablepsoides cearensis
+1538,340,Hypsolebias gilbertobrasili
+1539,341,Melanophryniscus klappenbachi
+1540,342,Cryptops iporangensis
+1541,342,Cryptops spelaeoraptor
+1542,342,Scolopendropsis duplicata
+1543,343,Bryconamericus lambari
+1544,343,Diapoma pyrrhopteryx
+1545,343,Spintherobolus leptoura
+1546,343,Hasemania crenuchoides
+1547,343,Hasemania maxillaris
+1548,343,Hasemania melanura
+1549,343,Hyphessobrycon duragenys
+1550,343,Hyphessobrycon taurocephalus
+1551,343,Spintherobolus papilliferus
+1552,343,Astyanax eremus
+1553,343,Rachoviscus graciliceps
+1554,343,Spintherobolus ankoseion
+1555,344,Bryconamericus lambari
+1556,344,Diapoma pyrrhopteryx
+1557,344,Spintherobolus leptoura
+1558,344,Hasemania crenuchoides
+1559,344,Hasemania maxillaris
+1560,344,Hasemania melanura
+1561,344,Hyphessobrycon duragenys
+1562,344,Hyphessobrycon taurocephalus
+1563,344,Spintherobolus papilliferus
+1564,344,Astyanax eremus
+1565,344,Rachoviscus graciliceps
+1566,344,Spintherobolus ankoseion
+1567,345,Bryconamericus lambari
+1568,345,Diapoma pyrrhopteryx
+1569,345,Spintherobolus leptoura
+1570,345,Hasemania crenuchoides
+1571,345,Hasemania maxillaris
+1572,345,Hasemania melanura
+1573,345,Hyphessobrycon duragenys
+1574,345,Hyphessobrycon taurocephalus
+1575,345,Spintherobolus papilliferus
+1576,345,Astyanax eremus
+1577,345,Rachoviscus graciliceps
+1578,345,Spintherobolus ankoseion
+1579,346,Mimagoniates lateralis
+1580,347,Rachoviscus crassiceps
+1581,348,Hollandichthys taramandahy
+1582,349,Ginglymostoma cirratum
+1583,350,Leptagrion bocainense
+1584,351,Asthenes luizae
+1585,352,Phyllocaulis renschi
+1586,353,Aceratobasis cornicauda
+1587,353,Aceratobasis mourei
+1588,353,Castoraeschna januaria
+1589,353,Rhionaeschna eduardoi
+1590,353,Phyllocycla bartica
+1591,353,Elasmothemis schubarti
+1592,353,Macrothemis tessellata
+1593,353,Micrathyria borgmeieri
+1594,353,Micrathyria divergens
+1595,353,Fluminagrion taxaense
+1596,353,Homeoura lindneri
+1597,353,Leptagrion bocainense
+1598,353,Heteragrion petiense
+1599,354,Aceratobasis cornicauda
+1600,354,Aceratobasis mourei
+1601,354,Castoraeschna januaria
+1602,354,Rhionaeschna eduardoi
+1603,354,Phyllocycla bartica
+1604,354,Elasmothemis schubarti
+1605,354,Macrothemis tessellata
+1606,354,Micrathyria borgmeieri
+1607,354,Micrathyria divergens
+1608,354,Fluminagrion taxaense
+1609,354,Homeoura lindneri
+1610,354,Leptagrion bocainense
+1611,354,Heteragrion petiense
+1612,355,Aceratobasis cornicauda
+1613,355,Aceratobasis mourei
+1614,355,Castoraeschna januaria
+1615,355,Rhionaeschna eduardoi
+1616,355,Phyllocycla bartica
+1617,355,Elasmothemis schubarti
+1618,355,Macrothemis tessellata
+1619,355,Micrathyria borgmeieri
+1620,355,Micrathyria divergens
+1621,355,Fluminagrion taxaense
+1622,355,Homeoura lindneri
+1623,355,Leptagrion bocainense
+1624,355,Heteragrion petiense
+1625,356,Leptagrion bocainense
+1626,357,Syndactyla ucayalae
+1627,358,Scleromystax macropterus
+1628,359,Chrysocyon brachyurus
+1629,360,Chrysocyon brachyurus
+1630,361,Chrysocyon brachyurus
+1631,362,Chrysocyon brachyurus
+1632,363,Chrysocyon brachyurus
+1633,364,Chrysocyon brachyurus
+1634,365,Phyllomys lundi
+1635,366,Thoropa lutzi
+1636,367,Sapajus flavius
+1637,367,Sapajus robustus
+1638,368,Sapajus flavius
+1639,368,Sapajus robustus
+1640,369,Sapajus xanthosternos
+1641,370,Ateles chamek
+1642,370,Ateles belzebuth
+1643,370,Ateles marginatus
+1644,371,Ateles chamek
+1645,371,Ateles belzebuth
+1646,371,Ateles marginatus
+1647,372,Ateles chamek
+1648,372,Ateles belzebuth
+1649,372,Ateles marginatus
+1650,373,Ateles chamek
+1651,374,Saimiri vanzolinii
+1652,375,Sapajus cay
+1653,375,Sapajus flavius
+1654,376,Sapajus cay
+1655,376,Sapajus flavius
+1656,377,Sapajus robustus
+1657,378,Sapajus xanthosternos
+1658,379,Sapajus flavius
+1659,380,Sapajus robustus
+1660,381,Mico rondoni
+1661,382,Carcharhinus obscurus
+1662,382,Carcharhinus signatus
+1663,383,Carcharhinus obscurus
+1664,383,Carcharhinus signatus
+1665,384,Trichechus manatus
+1666,385,Rhamdia jequitinhonha
+1667,386,Pontoporia blainvillei
+1668,387,Mycteroperca interstitialis
+1669,388,Leopardus tigrinus
+1670,389,Leopardus wiedii
+1671,390,Parides burchellanus
+1672,391,Onychorhynchus swainsoni
+1673,392,Dirphia monticola
+1674,392,Nyceryx mielkei
+1675,392,Parapoynx restingalis
+1676,393,Dirphia monticola
+1677,393,Nyceryx mielkei
+1678,393,Parapoynx restingalis
+1679,394,Nyceryx mielkei
+1680,395,Brachyteles arachnoides
+1681,396,Mycetopoda legumen
+1682,397,Mycetopoda legumen
+1683,398,Limnodromus griseus
+1684,399,Numenius hudsonicus
+1685,400,Epinephelus itajara
+1686,401,Hyporthodus niveatus
+1687,402,Epinephelus itajara
+1688,403,Hylodes mertensi
+1689,404,Mico rondoni
+1690,405,Leontopithecus chrysomelas
+1691,406,Leontopithecus chrysomelas
+1692,407,Leontopithecus caissara
+1693,408,Leontopithecus rosalia
+1694,409,Leontopithecus chrysopygus
+1695,410,Sapajus robustus
+1696,411,Fimoscolex sporadochaetus
+1697,412,Fimoscolex sporadochaetus
+1698,413,Fimoscolex sporadochaetus
+1699,414,Kerodon rupestris
+1700,414,Kerodon acrobata
+1701,415,Kerodon rupestris
+1702,415,Kerodon acrobata
+1703,416,Cavia intermedia
+1704,417,Brachyteles arachnoides
+1705,418,Brachyteles arachnoides
+1706,419,Melanophryniscus montevidensis
+1707,420,Trinomys moojeni
+1708,421,Lonchophylla dekeyseri
+1709,422,Leopardus tigrinus
+1710,423,Brachyteles arachnoides
+1711,424,Brachyteles arachnoides
+1712,425,Brachyteles arachnoides
+1713,426,Crax blumenbachii
+1714,427,Pauxi mitu
+1715,428,Crax blumenbachii
+1716,429,Rodriguesophis scriptorcibatus
+1717,430,Rhegmatorhina gymnops
+1718,431,Nyctibius aethereus aethereus
+1719,432,Phlegopsis nigromaculata paraensis
+1720,432,Phlegopsis nigromaculata confinis
+1721,433,Melanophryniscus klappenbachi
+1722,434,Lophiosilurus alexandri
+1723,435,Epiperipatus ohausi
+1724,435,Epiperipatus paurognostus
+1725,435,Epiperipatus adenocryptus
+1726,435,Epiperipatus diadenoproctus
+1727,436,Panthera onca
+1728,437,Panthera onca
+1729,438,Discocyrtus pedrosoi
+1730,439,Phyllomys brasiliensis
+1731,440,Ceratophrys ornata
+1732,441,Coendou speratus
+1733,442,Chaetomys subspinosus
+1734,443,Lophiosilurus alexandri
+1735,444,Mylesinus paucisquamatus
+1736,445,Myloplus tiete
+1737,446,Nyctimantis pomba
+1738,447,Sphyrna mokarran
+1739,448,Myrmecophaga tridactyla
+1740,449,Pyriglena atra
+1741,450,Amazona vinacea
+1742,451,Philodryas livida
+1743,452,Lutjanus purpureus
+1744,452,Lutjanus purpureus
+1745,453,Lutjanus purpureus
+1746,453,Lutjanus purpureus
+1747,454,Lutjanus purpureus
+1748,455,Lutjanus purpureus
+1749,456,Hippocampus patagonicus
+1750,457,Sporophila beltoni
+1751,458,Platyrinchus leucoryphus
+1752,459,Sphyrna tudes
+1753,460,Maratecoara formosa
+1754,460,Hypsolebias flammeus
+1755,460,Kryptolebias campelloi
+1756,460,Maratecoara splendida
+1757,460,Melanorivulus crixas
+1758,460,Melanorivulus karaja
+1759,460,Melanorivulus kayapo
+1760,460,Melanorivulus kunzei
+1761,460,Melanorivulus rubromarginatus
+1762,460,Melanorivulus salmonicaudus
+1763,460,Melanorivulus ubirajarai
+1764,460,Pituna xinguensis
+1765,460,Plesiolebias canabravensis
+1766,460,Spectrolebias reticulatus
+1767,460,Trigonectes strigabundus
+1768,460,Cynolebias leptocephalus
+1769,460,Hypsolebias gilbertobrasili
+1770,460,Moema piriana
+1771,460,Hypsolebias tocantinensis
+1772,460,Simpsonichthys cholopteryx
+1773,461,Maratecoara formosa
+1774,461,Hypsolebias flammeus
+1775,461,Kryptolebias campelloi
+1776,461,Maratecoara splendida
+1777,461,Melanorivulus crixas
+1778,461,Melanorivulus karaja
+1779,461,Melanorivulus kayapo
+1780,461,Melanorivulus kunzei
+1781,461,Melanorivulus rubromarginatus
+1782,461,Melanorivulus salmonicaudus
+1783,461,Melanorivulus ubirajarai
+1784,461,Pituna xinguensis
+1785,461,Plesiolebias canabravensis
+1786,461,Spectrolebias reticulatus
+1787,461,Trigonectes strigabundus
+1788,461,Cynolebias leptocephalus
+1789,461,Hypsolebias gilbertobrasili
+1790,461,Moema piriana
+1791,461,Hypsolebias tocantinensis
+1792,461,Simpsonichthys cholopteryx
+1793,462,Maratecoara formosa
+1794,462,Hypsolebias flammeus
+1795,462,Kryptolebias campelloi
+1796,462,Maratecoara splendida
+1797,462,Melanorivulus crixas
+1798,462,Melanorivulus karaja
+1799,462,Melanorivulus kayapo
+1800,462,Melanorivulus kunzei
+1801,462,Melanorivulus rubromarginatus
+1802,462,Melanorivulus salmonicaudus
+1803,462,Melanorivulus ubirajarai
+1804,462,Pituna xinguensis
+1805,462,Plesiolebias canabravensis
+1806,462,Spectrolebias reticulatus
+1807,462,Trigonectes strigabundus
+1808,462,Cynolebias leptocephalus
+1809,462,Hypsolebias gilbertobrasili
+1810,462,Moema piriana
+1811,462,Hypsolebias tocantinensis
+1812,462,Simpsonichthys cholopteryx
+1813,463,Maratecoara formosa
+1814,463,Hypsolebias flammeus
+1815,463,Kryptolebias campelloi
+1816,463,Maratecoara splendida
+1817,463,Melanorivulus crixas
+1818,463,Melanorivulus karaja
+1819,463,Melanorivulus kayapo
+1820,463,Melanorivulus kunzei
+1821,463,Melanorivulus rubromarginatus
+1822,463,Melanorivulus salmonicaudus
+1823,463,Melanorivulus ubirajarai
+1824,463,Pituna xinguensis
+1825,463,Plesiolebias canabravensis
+1826,463,Spectrolebias reticulatus
+1827,463,Trigonectes strigabundus
+1828,463,Cynolebias leptocephalus
+1829,463,Hypsolebias gilbertobrasili
+1830,463,Moema piriana
+1831,463,Hypsolebias tocantinensis
+1832,463,Simpsonichthys cholopteryx
+1833,464,Maratecoara formosa
+1834,464,Hypsolebias flammeus
+1835,464,Kryptolebias campelloi
+1836,464,Maratecoara splendida
+1837,464,Melanorivulus crixas
+1838,464,Melanorivulus karaja
+1839,464,Melanorivulus kayapo
+1840,464,Melanorivulus kunzei
+1841,464,Melanorivulus rubromarginatus
+1842,464,Melanorivulus salmonicaudus
+1843,464,Melanorivulus ubirajarai
+1844,464,Pituna xinguensis
+1845,464,Plesiolebias canabravensis
+1846,464,Spectrolebias reticulatus
+1847,464,Trigonectes strigabundus
+1848,464,Cynolebias leptocephalus
+1849,464,Hypsolebias gilbertobrasili
+1850,464,Moema piriana
+1851,464,Hypsolebias tocantinensis
+1852,464,Simpsonichthys cholopteryx
+1853,465,Maratecoara formosa
+1854,465,Hypsolebias flammeus
+1855,465,Kryptolebias campelloi
+1856,465,Maratecoara splendida
+1857,465,Melanorivulus crixas
+1858,465,Melanorivulus karaja
+1859,465,Melanorivulus kayapo
+1860,465,Melanorivulus kunzei
+1861,465,Melanorivulus rubromarginatus
+1862,465,Melanorivulus salmonicaudus
+1863,465,Melanorivulus ubirajarai
+1864,465,Pituna xinguensis
+1865,465,Plesiolebias canabravensis
+1866,465,Spectrolebias reticulatus
+1867,465,Trigonectes strigabundus
+1868,465,Cynolebias leptocephalus
+1869,465,Hypsolebias gilbertobrasili
+1870,465,Moema piriana
+1871,465,Hypsolebias tocantinensis
+1872,465,Simpsonichthys cholopteryx
+1873,466,Hypsolebias flammeus
+1874,466,Hypsolebias multiradiatus
+1875,466,Cynolebias griseus
+1876,466,Hypsolebias notatus
+1877,466,Ophthalmolebias constanciae
+1878,466,Hypsolebias marginatus
+1879,467,Hypsolebias flammeus
+1880,467,Hypsolebias multiradiatus
+1881,467,Cynolebias griseus
+1882,467,Hypsolebias notatus
+1883,467,Ophthalmolebias constanciae
+1884,467,Hypsolebias marginatus
+1885,468,Hypsolebias flammeus
+1886,468,Hypsolebias multiradiatus
+1887,468,Cynolebias griseus
+1888,468,Hypsolebias notatus
+1889,468,Ophthalmolebias constanciae
+1890,468,Hypsolebias marginatus
+1891,469,Hypsolebias flammeus
+1892,469,Hypsolebias multiradiatus
+1893,469,Cynolebias griseus
+1894,469,Hypsolebias notatus
+1895,469,Ophthalmolebias constanciae
+1896,469,Hypsolebias marginatus
+1897,470,Hypsolebias flammeus
+1898,470,Hypsolebias multiradiatus
+1899,470,Cynolebias griseus
+1900,470,Hypsolebias notatus
+1901,470,Ophthalmolebias constanciae
+1902,470,Hypsolebias marginatus
+1903,471,Cynolebias parnaibensis
+1904,472,Anablepsoides cearensis
+1905,472,Atlantirivulus nudiventris
+1906,472,Austrolebias univentripinnis
+1907,472,Cynopoecilus intimus
+1908,472,Melanorivulus illuminatus
+1909,472,Melanorivulus scalaris
+1910,472,Nematolebias whitei
+1911,472,Plesiolebias xavantei
+1912,472,Atlantirivulus lazzarotoi
+1913,472,Atlantirivulus simplicis
+1914,472,Austrolebias adloffi
+1915,472,Austrolebias alexandri
+1916,472,Austrolebias arachan
+1917,472,Austrolebias carvalhoi
+1918,472,Austrolebias cheradophilus
+1919,472,Austrolebias cyaneus
+1920,472,Austrolebias ibicuiensis
+1921,472,Austrolebias jaegari
+1922,472,Austrolebias litzi
+1923,472,Austrolebias nachtigalli
+1924,472,Austrolebias nigrofasciatus
+1925,472,Austrolebias paucisquama
+1926,472,Austrolebias varzeae
+1927,472,Campellolebias brucei
+1928,472,Campellolebias chrysolineatus
+1929,472,Campellolebias dorsimaculatus
+1930,472,Campellolebias intermedius
+1931,472,Hypsolebias adornatus
+1932,472,Hypsolebias alternatus
+1933,472,Hypsolebias auratus
+1934,472,Hypsolebias brunoi
+1935,472,Hypsolebias carlettoi
+1936,472,Hypsolebias delucai
+1937,472,Hypsolebias fasciatus
+1938,472,Hypsolebias flavicaudatus
+1939,472,Hypsolebias fulminantis
+1940,472,Hypsolebias ghisolfii
+1941,472,Hypsolebias gibberatus
+1942,472,Hypsolebias guanambi
+1943,472,Hypsolebias harmonicus
+1944,472,Hypsolebias hellneri
+1945,472,Hypsolebias igneus
+1946,472,Hypsolebias janaubensis
+1947,472,Hypsolebias longignatus
+1948,472,Hypsolebias lopesi
+1949,472,Hypsolebias macaubensis
+1950,472,Hypsolebias magnificus
+1951,472,Hypsolebias mediopapillatus
+1952,472,Hypsolebias nielseni
+1953,472,Hypsolebias picturatus
+1954,472,Hypsolebias rufus
+1955,472,Hypsolebias stellatus
+1956,472,Hypsolebias trilineatus
+1957,472,Hypsolebias virgulatus
+1958,472,Kryptolebias brasiliensis
+1959,472,Kryptolebias gracilis
+1960,472,Leptopanchax citrinipinnis
+1961,472,Leptopanchax itanhaensis
+1962,472,Leptolebias marmoratus
+1963,472,Leptopanchax opalescens
+1964,472,Leptopanchax splendens
+1965,472,Melanorivulus pinima
+1966,472,Melanorivulus rutilicaudus
+1967,472,Melanorivulus vittatus
+1968,472,Nematolebias papilliferus
+1969,472,Notholebias cruzi
+1970,472,Notholebias fractifasciatus
+1971,472,Notholebias minimus
+1972,472,Ophthalmolebias bokermanni
+1973,472,Ophthalmolebias constanciae
+1974,472,Ophthalmolebias perpendicularis
+1975,472,Ophthalmolebias rosaceus
+1976,472,Ophthalmolebias suzarti
+1977,472,Pituna brevirostrata
+1978,472,Simpsonichthys boitonei
+1979,472,Simpsonichthys parallelus
+1980,472,Simpsonichthys punctulatus
+1981,472,Simpsonichthys santanae
+1982,472,Simpsonichthys zonatus
+1983,472,Xenurolebias myersi
+1984,472,Austrolebias cinereus
+1985,473,Anablepsoides cearensis
+1986,473,Atlantirivulus nudiventris
+1987,473,Austrolebias univentripinnis
+1988,473,Cynopoecilus intimus
+1989,473,Melanorivulus illuminatus
+1990,473,Melanorivulus scalaris
+1991,473,Nematolebias whitei
+1992,473,Plesiolebias xavantei
+1993,473,Atlantirivulus lazzarotoi
+1994,473,Atlantirivulus simplicis
+1995,473,Austrolebias adloffi
+1996,473,Austrolebias alexandri
+1997,473,Austrolebias arachan
+1998,473,Austrolebias carvalhoi
+1999,473,Austrolebias cheradophilus
+2000,473,Austrolebias cyaneus
+2001,473,Austrolebias ibicuiensis
+2002,473,Austrolebias jaegari
+2003,473,Austrolebias litzi
+2004,473,Austrolebias nachtigalli
+2005,473,Austrolebias nigrofasciatus
+2006,473,Austrolebias paucisquama
+2007,473,Austrolebias varzeae
+2008,473,Campellolebias brucei
+2009,473,Campellolebias chrysolineatus
+2010,473,Campellolebias dorsimaculatus
+2011,473,Campellolebias intermedius
+2012,473,Hypsolebias adornatus
+2013,473,Hypsolebias alternatus
+2014,473,Hypsolebias auratus
+2015,473,Hypsolebias brunoi
+2016,473,Hypsolebias carlettoi
+2017,473,Hypsolebias delucai
+2018,473,Hypsolebias fasciatus
+2019,473,Hypsolebias flavicaudatus
+2020,473,Hypsolebias fulminantis
+2021,473,Hypsolebias ghisolfii
+2022,473,Hypsolebias gibberatus
+2023,473,Hypsolebias guanambi
+2024,473,Hypsolebias harmonicus
+2025,473,Hypsolebias hellneri
+2026,473,Hypsolebias igneus
+2027,473,Hypsolebias janaubensis
+2028,473,Hypsolebias longignatus
+2029,473,Hypsolebias lopesi
+2030,473,Hypsolebias macaubensis
+2031,473,Hypsolebias magnificus
+2032,473,Hypsolebias mediopapillatus
+2033,473,Hypsolebias nielseni
+2034,473,Hypsolebias picturatus
+2035,473,Hypsolebias rufus
+2036,473,Hypsolebias stellatus
+2037,473,Hypsolebias trilineatus
+2038,473,Hypsolebias virgulatus
+2039,473,Kryptolebias brasiliensis
+2040,473,Kryptolebias gracilis
+2041,473,Leptopanchax citrinipinnis
+2042,473,Leptopanchax itanhaensis
+2043,473,Leptolebias marmoratus
+2044,473,Leptopanchax opalescens
+2045,473,Leptopanchax splendens
+2046,473,Melanorivulus pinima
+2047,473,Melanorivulus rutilicaudus
+2048,473,Melanorivulus vittatus
+2049,473,Nematolebias papilliferus
+2050,473,Notholebias cruzi
+2051,473,Notholebias fractifasciatus
+2052,473,Notholebias minimus
+2053,473,Ophthalmolebias bokermanni
+2054,473,Ophthalmolebias constanciae
+2055,473,Ophthalmolebias perpendicularis
+2056,473,Ophthalmolebias rosaceus
+2057,473,Ophthalmolebias suzarti
+2058,473,Pituna brevirostrata
+2059,473,Simpsonichthys boitonei
+2060,473,Simpsonichthys parallelus
+2061,473,Simpsonichthys punctulatus
+2062,473,Simpsonichthys santanae
+2063,473,Simpsonichthys zonatus
+2064,473,Xenurolebias myersi
+2065,473,Austrolebias cinereus
+2066,474,Anablepsoides cearensis
+2067,474,Atlantirivulus nudiventris
+2068,474,Austrolebias univentripinnis
+2069,474,Cynopoecilus intimus
+2070,474,Melanorivulus illuminatus
+2071,474,Melanorivulus scalaris
+2072,474,Nematolebias whitei
+2073,474,Plesiolebias xavantei
+2074,474,Atlantirivulus lazzarotoi
+2075,474,Atlantirivulus simplicis
+2076,474,Austrolebias adloffi
+2077,474,Austrolebias alexandri
+2078,474,Austrolebias arachan
+2079,474,Austrolebias carvalhoi
+2080,474,Austrolebias cheradophilus
+2081,474,Austrolebias cyaneus
+2082,474,Austrolebias ibicuiensis
+2083,474,Austrolebias jaegari
+2084,474,Austrolebias litzi
+2085,474,Austrolebias nachtigalli
+2086,474,Austrolebias nigrofasciatus
+2087,474,Austrolebias paucisquama
+2088,474,Austrolebias varzeae
+2089,474,Campellolebias brucei
+2090,474,Campellolebias chrysolineatus
+2091,474,Campellolebias dorsimaculatus
+2092,474,Campellolebias intermedius
+2093,474,Hypsolebias adornatus
+2094,474,Hypsolebias alternatus
+2095,474,Hypsolebias auratus
+2096,474,Hypsolebias brunoi
+2097,474,Hypsolebias carlettoi
+2098,474,Hypsolebias delucai
+2099,474,Hypsolebias fasciatus
+2100,474,Hypsolebias flavicaudatus
+2101,474,Hypsolebias fulminantis
+2102,474,Hypsolebias ghisolfii
+2103,474,Hypsolebias gibberatus
+2104,474,Hypsolebias guanambi
+2105,474,Hypsolebias harmonicus
+2106,474,Hypsolebias hellneri
+2107,474,Hypsolebias igneus
+2108,474,Hypsolebias janaubensis
+2109,474,Hypsolebias longignatus
+2110,474,Hypsolebias lopesi
+2111,474,Hypsolebias macaubensis
+2112,474,Hypsolebias magnificus
+2113,474,Hypsolebias mediopapillatus
+2114,474,Hypsolebias nielseni
+2115,474,Hypsolebias picturatus
+2116,474,Hypsolebias rufus
+2117,474,Hypsolebias stellatus
+2118,474,Hypsolebias trilineatus
+2119,474,Hypsolebias virgulatus
+2120,474,Kryptolebias brasiliensis
+2121,474,Kryptolebias gracilis
+2122,474,Leptopanchax citrinipinnis
+2123,474,Leptopanchax itanhaensis
+2124,474,Leptolebias marmoratus
+2125,474,Leptopanchax opalescens
+2126,474,Leptopanchax splendens
+2127,474,Melanorivulus pinima
+2128,474,Melanorivulus rutilicaudus
+2129,474,Melanorivulus vittatus
+2130,474,Nematolebias papilliferus
+2131,474,Notholebias cruzi
+2132,474,Notholebias fractifasciatus
+2133,474,Notholebias minimus
+2134,474,Ophthalmolebias bokermanni
+2135,474,Ophthalmolebias constanciae
+2136,474,Ophthalmolebias perpendicularis
+2137,474,Ophthalmolebias rosaceus
+2138,474,Ophthalmolebias suzarti
+2139,474,Pituna brevirostrata
+2140,474,Simpsonichthys boitonei
+2141,474,Simpsonichthys parallelus
+2142,474,Simpsonichthys punctulatus
+2143,474,Simpsonichthys santanae
+2144,474,Simpsonichthys zonatus
+2145,474,Xenurolebias myersi
+2146,474,Austrolebias cinereus
+2147,475,Anablepsoides cearensis
+2148,475,Atlantirivulus nudiventris
+2149,475,Austrolebias univentripinnis
+2150,475,Cynopoecilus intimus
+2151,475,Melanorivulus illuminatus
+2152,475,Melanorivulus scalaris
+2153,475,Nematolebias whitei
+2154,475,Plesiolebias xavantei
+2155,475,Atlantirivulus lazzarotoi
+2156,475,Atlantirivulus simplicis
+2157,475,Austrolebias adloffi
+2158,475,Austrolebias alexandri
+2159,475,Austrolebias arachan
+2160,475,Austrolebias carvalhoi
+2161,475,Austrolebias cheradophilus
+2162,475,Austrolebias cyaneus
+2163,475,Austrolebias ibicuiensis
+2164,475,Austrolebias jaegari
+2165,475,Austrolebias litzi
+2166,475,Austrolebias nachtigalli
+2167,475,Austrolebias nigrofasciatus
+2168,475,Austrolebias paucisquama
+2169,475,Austrolebias varzeae
+2170,475,Campellolebias brucei
+2171,475,Campellolebias chrysolineatus
+2172,475,Campellolebias dorsimaculatus
+2173,475,Campellolebias intermedius
+2174,475,Hypsolebias adornatus
+2175,475,Hypsolebias alternatus
+2176,475,Hypsolebias auratus
+2177,475,Hypsolebias brunoi
+2178,475,Hypsolebias carlettoi
+2179,475,Hypsolebias delucai
+2180,475,Hypsolebias fasciatus
+2181,475,Hypsolebias flavicaudatus
+2182,475,Hypsolebias fulminantis
+2183,475,Hypsolebias ghisolfii
+2184,475,Hypsolebias gibberatus
+2185,475,Hypsolebias guanambi
+2186,475,Hypsolebias harmonicus
+2187,475,Hypsolebias hellneri
+2188,475,Hypsolebias igneus
+2189,475,Hypsolebias janaubensis
+2190,475,Hypsolebias longignatus
+2191,475,Hypsolebias lopesi
+2192,475,Hypsolebias macaubensis
+2193,475,Hypsolebias magnificus
+2194,475,Hypsolebias mediopapillatus
+2195,475,Hypsolebias nielseni
+2196,475,Hypsolebias picturatus
+2197,475,Hypsolebias rufus
+2198,475,Hypsolebias stellatus
+2199,475,Hypsolebias trilineatus
+2200,475,Hypsolebias virgulatus
+2201,475,Kryptolebias brasiliensis
+2202,475,Kryptolebias gracilis
+2203,475,Leptopanchax citrinipinnis
+2204,475,Leptopanchax itanhaensis
+2205,475,Leptolebias marmoratus
+2206,475,Leptopanchax opalescens
+2207,475,Leptopanchax splendens
+2208,475,Melanorivulus pinima
+2209,475,Melanorivulus rutilicaudus
+2210,475,Melanorivulus vittatus
+2211,475,Nematolebias papilliferus
+2212,475,Notholebias cruzi
+2213,475,Notholebias fractifasciatus
+2214,475,Notholebias minimus
+2215,475,Ophthalmolebias bokermanni
+2216,475,Ophthalmolebias constanciae
+2217,475,Ophthalmolebias perpendicularis
+2218,475,Ophthalmolebias rosaceus
+2219,475,Ophthalmolebias suzarti
+2220,475,Pituna brevirostrata
+2221,475,Simpsonichthys boitonei
+2222,475,Simpsonichthys parallelus
+2223,475,Simpsonichthys punctulatus
+2224,475,Simpsonichthys santanae
+2225,475,Simpsonichthys zonatus
+2226,475,Xenurolebias myersi
+2227,475,Austrolebias cinereus
+2228,476,Trichechus inunguis
+2229,477,Trichechus manatus
+2230,478,Maratecoara formosa
+2231,478,Hypsolebias notatus
+2232,478,Simpsonichthys nigromaculatus
+2233,479,Maratecoara formosa
+2234,479,Hypsolebias notatus
+2235,479,Simpsonichthys nigromaculatus
+2236,480,Maratecoara formosa
+2237,480,Hypsolebias notatus
+2238,480,Simpsonichthys nigromaculatus
+2239,481,Cynolebias griseus
+2240,482,Sparisoma axillare
+2241,482,Sparisoma frondosum
+2242,483,Sparisoma axillare
+2243,483,Sparisoma frondosum
+2244,484,Apareiodon davisi
+2245,484,Odontesthes bicudo
+2246,485,Kalyptodoras bahiensis
+2247,486,Nyctimantis pomba
+2248,486,Scinax alcatraz
+2249,486,Scinax faivovichi
+2250,486,Scinax peixotoi
+2251,487,Nyctimantis pomba
+2252,487,Scinax alcatraz
+2253,487,Scinax faivovichi
+2254,487,Scinax peixotoi
+2255,488,Nyctimantis pomba
+2256,488,Scinax alcatraz
+2257,488,Scinax faivovichi
+2258,488,Scinax peixotoi
+2259,489,Nyctimantis pomba
+2260,489,Scinax alcatraz
+2261,489,Scinax faivovichi
+2262,489,Scinax peixotoi
+2263,490,Xenohyla truncata
+2264,491,Boana buriti
+2265,492,Scinax faivovichi
+2266,493,Phrynomedusa marginata
+2267,494,Scinax alcatraz
+2268,495,Xenohyla truncata
+2269,496,Nyctimantis pomba
+2270,497,Boana buriti
+2271,498,Bokermannohyla vulcaniae
+2272,499,Xenohyla truncata
+2273,500,Xenohyla truncata
+2274,501,Boana cymbalum
+2275,502,Sphaenorhynchus bromelicola
+2276,503,Pithecopus rusticus
+2277,504,Nyctimantis pomba
+2278,505,Phrynomedusa fimbriata
+2279,506,Phrynomedusa fimbriata
+2280,507,Scinax peixotoi
+2281,508,Phrynomedusa marginata
+2282,509,Thoropa petropolitana
+2283,510,Spintherobolus broccae
+2284,510,Hasemania crenuchoides
+2285,510,Astyanax eremus
+2286,510,Mimagoniates sylvicola
+2287,511,Spintherobolus broccae
+2288,511,Hasemania crenuchoides
+2289,511,Astyanax eremus
+2290,511,Mimagoniates sylvicola
+2291,512,Spintherobolus broccae
+2292,512,Hasemania crenuchoides
+2293,512,Astyanax eremus
+2294,512,Mimagoniates sylvicola
+2295,513,Stygichthys typhlops
+2296,514,Brycon insignis
+2297,515,Brycon devillei
+2298,516,Piculus paraensis
+2299,517,Celeus flavus subflavus
+2300,518,Celeus torquatus tinnunculus
+2301,519,Celeus obrieni
+2302,520,Scobinancistrus aureatus
+2303,521,Brachycephalus mirissimus
+2304,522,Rhincodon typus
+2305,522,Leopardus tigrinus
+2306,523,Rhincodon typus
+2307,523,Leopardus tigrinus
+2308,524,Pseudoplatystoma corruscans
+2309,525,Spinus yarrellii
+2310,526,Phyllomyias reiseri
+2311,527,Sandalodesmus stramineus
+2312,528,Glomeridesmus spelaeus
+2313,528,Leodesmus yporangae
+2314,528,Peridontodesmella alba
+2315,528,Pseudonannolene ambuatinga
+2316,528,Pseudonannolene spelaea
+2317,528,Dioplosternus salvatrix
+2318,528,Pseudonannolene imbirensis
+2319,528,Pseudonannolene tocaiensis
+2320,528,Odontopeltis giganteus
+2321,529,Glomeridesmus spelaeus
+2322,529,Leodesmus yporangae
+2323,529,Peridontodesmella alba
+2324,529,Pseudonannolene ambuatinga
+2325,529,Pseudonannolene spelaea
+2326,529,Dioplosternus salvatrix
+2327,529,Pseudonannolene imbirensis
+2328,529,Pseudonannolene tocaiensis
+2329,529,Odontopeltis giganteus
+2330,530,Brycon orbignyanus
+2331,531,Bothrops pirajai
+2332,532,Mycteroperca interstitialis
+2333,533,Brycon opalinus
+2334,534,Conorhynchos conirostris
+2335,535,Conorhynchos conirostris
+2336,536,Girardia arenicola
+2337,536,Girardia paucipuntacta
+2338,537,Proceratophrys palustris
+2339,538,Lophiosilurus alexandri
+2340,539,Callistomys pictus
+2341,540,Bradypus torquatus
+2342,541,Cavia intermedia
+2343,542,Acherontides eleonorae
+2344,542,Arrhopalites alambariensis
+2345,542,Arrhopalites botuveraensis
+2346,542,Arrhopalites gnaspinii
+2347,542,Arrhopalites heteroculatus
+2348,542,Arrhopalites lawrencei
+2349,542,Arrhopalites paranaensis
+2350,542,Pararrhopalites papaveroi
+2351,542,Troglobius brasiliensis
+2352,542,Troglobius ferroicus
+2353,542,Trogolaphysa aelleni
+2354,542,Archisotoma arariboia
+2355,542,Pseudosinella ambigua
+2356,542,Seira arenicola
+2357,542,Isotomiella uai
+2358,542,Archisotoma catiae
+2359,542,Maricaella duna
+2360,542,Aethiopella littoralis
+2361,542,Seira mataraquensis
+2362,542,Seira musarum
+2363,542,Agraphorura mariapetrae
+2364,542,Isotomodes cariocus
+2365,542,Psammisotoma restingae
+2366,542,Arlea arenicola
+2367,542,Paracerura gandarela
+2368,542,Hyleanura mendoncae
+2369,542,Mesaphorura maricaensis
+2370,542,Seira pseudoannulata
+2371,542,Arlesia intermedia
+2372,542,Isotomurus riparius
+2373,542,Arlea psammophila
+2374,542,Micranurida fluminensis
+2375,543,Tayassu pecari
+2376,543,Tayassu pecari
+2377,544,Tayassu pecari
+2378,544,Tayassu pecari
+2379,545,Thripophaga macroura
+2380,546,Phaethornis margarettae
+2381,547,Parides panthonus castilhoi
+2382,548,Discosura langsdorffi langsdorffi
+2383,549,Leptasthenura platensis
+2384,550,Alopias vulpinus
+2385,551,Lycalopex vetulus
+2386,552,Juscelinomys candango
+2387,553,Oligoryzomys rupestris
+2388,553,Rhipidomys cariri
+2389,553,Rhipidomys tribei
+2390,553,Phyllomys lundi
+2391,553,Phyllomys thomasi
+2392,553,Phyllomys brasiliensis
+2393,553,Phyllomys unicolor
+2394,554,Oligoryzomys rupestris
+2395,554,Rhipidomys cariri
+2396,554,Rhipidomys tribei
+2397,554,Phyllomys lundi
+2398,554,Phyllomys thomasi
+2399,554,Phyllomys brasiliensis
+2400,554,Phyllomys unicolor
+2401,555,Oligoryzomys rupestris
+2402,555,Rhipidomys cariri
+2403,555,Rhipidomys tribei
+2404,555,Phyllomys lundi
+2405,555,Phyllomys thomasi
+2406,555,Phyllomys brasiliensis
+2407,555,Phyllomys unicolor
+2408,556,Oligoryzomys rupestris
+2409,556,Rhipidomys cariri
+2410,556,Rhipidomys tribei
+2411,556,Phyllomys lundi
+2412,556,Phyllomys thomasi
+2413,556,Phyllomys brasiliensis
+2414,556,Phyllomys unicolor
+2415,557,Oligoryzomys rupestris
+2416,557,Rhipidomys cariri
+2417,557,Rhipidomys tribei
+2418,557,Phyllomys lundi
+2419,557,Phyllomys thomasi
+2420,557,Phyllomys brasiliensis
+2421,557,Phyllomys unicolor
+2422,558,Oligoryzomys rupestris
+2423,558,Rhipidomys cariri
+2424,558,Rhipidomys tribei
+2425,558,Phyllomys lundi
+2426,558,Phyllomys thomasi
+2427,558,Phyllomys brasiliensis
+2428,558,Phyllomys unicolor
+2429,559,Oligoryzomys rupestris
+2430,559,Rhipidomys cariri
+2431,559,Rhipidomys tribei
+2432,559,Phyllomys lundi
+2433,559,Phyllomys thomasi
+2434,559,Phyllomys brasiliensis
+2435,559,Phyllomys unicolor
+2436,560,Noronhomys vespuccii
+2437,561,Callistomys pictus
+2438,562,Thalpomys cerradensis
+2439,562,Cerradomys goytaca
+2440,562,Thalpomys lasiotis
+2441,563,Thalpomys cerradensis
+2442,563,Cerradomys goytaca
+2443,563,Thalpomys lasiotis
+2444,564,Thalpomys cerradensis
+2445,564,Cerradomys goytaca
+2446,564,Thalpomys lasiotis
+2447,565,Akodon mystax
+2448,566,Trinomys mirapitanga
+2449,566,Trinomys yonenagae
+2450,566,Trinomys eliasi
+2451,566,Trinomys moojeni
+2452,567,Trinomys mirapitanga
+2453,567,Trinomys yonenagae
+2454,567,Trinomys eliasi
+2455,567,Trinomys moojeni
+2456,568,Trinomys mirapitanga
+2457,568,Trinomys yonenagae
+2458,568,Trinomys eliasi
+2459,568,Trinomys moojeni
+2460,569,Trinomys mirapitanga
+2461,569,Trinomys yonenagae
+2462,569,Trinomys eliasi
+2463,569,Trinomys moojeni
+2464,570,Gyldenstolpia planaltensis
+2465,570,Wilfredomys oenax
+2466,570,Euryoryzomys lamia
+2467,570,Microakodontomys transitorius
+2468,571,Gyldenstolpia planaltensis
+2469,571,Wilfredomys oenax
+2470,571,Euryoryzomys lamia
+2471,571,Microakodontomys transitorius
+2472,572,Gyldenstolpia planaltensis
+2473,572,Wilfredomys oenax
+2474,572,Euryoryzomys lamia
+2475,572,Microakodontomys transitorius
+2476,573,Gyldenstolpia planaltensis
+2477,573,Wilfredomys oenax
+2478,573,Euryoryzomys lamia
+2479,573,Microakodontomys transitorius
+2480,574,Cerradomys goytaca
+2481,575,Ctenomys bicolor
+2482,576,Melanophryniscus montevidensis
+2483,577,Cerradomys goytaca
+2484,578,Kerodon rupestris
+2485,579,Oligoryzomys rupestris
+2486,580,Columbina cyanopis
+2487,581,Sphyrna media
+2488,582,Sphyrna media
+2489,583,Wilfredomys oenax
+2490,584,Thoropa petropolitana
+2491,585,Thoropa petropolitana
+2492,586,Cycloramphus diringshofeni
+2493,587,Hylodes magalhaesi
+2494,587,Hylodes sazimai
+2495,588,Hylodes magalhaesi
+2496,588,Hylodes sazimai
+2497,589,Hylodes mertensi
+2498,590,Crossodactylus dispar
+2499,591,Thoropa lutzi
+2500,592,Adelophryne maranguapensis
+2501,593,Physalaemus soaresi
+2502,594,Thoropa lutzi
+2503,595,Chiasmocleis alagoana
+2504,595,Ischnocnema epipeda
+2505,596,Chiasmocleis alagoana
+2506,596,Ischnocnema epipeda
+2507,597,Ischnocnema garciai
+2508,598,Paratelmatobius lutzii
+2509,599,Crossodactylodes izecksohni
+2510,600,Cycloramphus faustoi
+2511,601,Physalaemus soaresi
+2512,602,Crossodactylus dantei
+2513,602,Crossodactylus dispar
+2514,603,Crossodactylus dantei
+2515,603,Crossodactylus dispar
+2516,604,Crossodactylus dispar
+2517,605,Ischnocnema karst
+2518,605,Euparkerella robusta
+2519,606,Ischnocnema karst
+2520,606,Euparkerella robusta
+2521,607,Ischnocnema manezinho
+2522,608,Hylodes sazimai
+2523,609,Thoropa lutzi
+2524,610,Holoaden bradei
+2525,611,Holoaden bradei
+2526,612,Cichlopsis leucogenys
+2527,613,Mico rondoni
+2528,614,Callithrix flaviceps
+2529,615,Callithrix flaviceps
+2530,616,Callithrix aurita
+2531,617,Callithrix flaviceps
+2532,618,Saguinus niger
+2533,619,Ischnocnema epipeda
+2534,620,Laterallus xenopterus
+2535,621,Melanophryniscus biancae
+2536,622,Melanophryniscus admirabilis
+2537,623,Melanophryniscus admirabilis
+2538,623,Melanophryniscus dorsalis
+2539,623,Melanophryniscus macrogranulosus
+2540,624,Melanophryniscus admirabilis
+2541,624,Melanophryniscus dorsalis
+2542,624,Melanophryniscus macrogranulosus
+2543,625,Melanophryniscus admirabilis
+2544,625,Melanophryniscus dorsalis
+2545,625,Melanophryniscus macrogranulosus
+2546,626,Melanophryniscus dorsalis
+2547,627,Melanophryniscus setiba
+2548,628,Melanophryniscus montevidensis
+2549,629,Brachycephalus pernix
+2550,630,Crossodactylodes itambe
+2551,631,Brachycephalus pernix
+2552,632,Holoaden bradei
+2553,633,Melanophryniscus dorsalis
+2554,634,Melanophryniscus cambaraensis
+2555,635,Melanophryniscus montevidensis
+2556,636,Melanophryniscus macrogranulosus
+2557,637,Melanophryniscus macrogranulosus
+2558,638,Brachycephalus pernix
+2559,639,Melanophryniscus cambaraensis
+2560,640,Melanophryniscus cambaraensis
+2561,641,Melanophryniscus montevidensis
+2562,642,Proceratophrys palustris
+2563,643,Ceratophrys ornata
+2564,644,Ceratophrys ornata
+2565,645,Ceratophrys ornata
+2566,646,Ceratophrys ornata
+2567,647,Ceratophrys ornata
+2568,648,Proceratophrys ararype
+2569,649,Proceratophrys sanctaritae
+2570,650,Proceratophrys sanctaritae
+2571,651,Ceratophrys ornata
+2572,652,Selenidera gouldii baturitensis
+2573,653,Callistomys pictus
+2574,654,Callistomys pictus
+2575,655,Leontopithecus rosalia
+2576,656,Leontopithecus chrysopygus
+2577,657,Callicebus melanochir
+2578,658,Callicebus personatus
+2579,659,Nemosia rourei
+2580,660,Tangara velia signata
+2581,661,Tangara cyanocephala cearensis
+2582,662,Hyporthodus niveatus
+2583,663,Hyporthodus niveatus
+2584,664,Phyllomys unicolor
+2585,665,Mycteroperca bonaci
+2586,665,Mycteroperca interstitialis
+2587,666,Mycteroperca bonaci
+2588,666,Mycteroperca interstitialis
+2589,667,Phrynomedusa fimbriata
+2590,668,Cycloramphus stejnegeri
+2591,669,Steindachneridion scriptum
+2592,669,Pseudoplatystoma corruscans
+2593,670,Steindachneridion scriptum
+2594,670,Pseudoplatystoma corruscans
+2595,671,Steindachneridion doceanum
+2596,672,Steindachneridion melanodermatum
+2597,673,Steindachneridion amblyurum
+2598,674,Steindachneridion parahybae
+2599,675,Pseudoplatystoma corruscans
+2600,676,Trogon collaris eytoni
+2601,677,Hylodes magalhaesi
+2602,678,Myrmecophaga tridactyla
+2603,679,Scytalopus diamantinensis
+2604,680,Scytalopus gonzagai
+2605,681,Eretmochelys imbricata
+2606,682,Caretta caretta
+2607,683,Lepidochelys olivacea
+2608,684,Eretmochelys imbricata
+2609,685,Caretta caretta
+2610,686,Lepidochelys olivacea
+2611,687,Eretmochelys imbricata
+2612,688,Caretta caretta
+2613,689,Caretta caretta
+2614,690,Dermochelys coriacea
+2615,691,Dermochelys coriacea
+2616,692,Dermochelys coriacea
+2617,693,Eretmochelys imbricata
+2618,694,Dermochelys coriacea
+2619,695,Dermochelys coriacea
+2620,696,Lepidochelys olivacea
+2621,697,Dermochelys coriacea
+2622,698,Dermochelys coriacea
+2623,699,Priodontes maximus
+2624,700,Tolypeutes tricinctus
+2625,701,Priodontes maximus
+2626,702,Iansaoniscus iraquara
+2627,703,Hyphessobrycon flammeus
+2628,704,Hyphessobrycon flammeus
+2629,705,Hyphessobrycon flammeus
+2630,706,Chaetomys subspinosus
+2631,707,Hypomasticus thayeri
+2632,708,Pyrrhura griseipectus
+2633,709,Pyrrhura perlata
+2634,710,Pyrrhura molinae
+2635,711,Pyrrhura amazonum
+2636,712,Pyrrhura cruentata
+2637,713,Conothraupis mesoleuca
+2638,714,Pontoporia blainvillei
+2639,715,Lophornis gouldii
+2640,716,Hylopezus whittakeri
+2641,717,Hylopezus paraensis
+2642,718,Grallaria varia intercedens
+2643,719,Microakodontomys transitorius
+2644,720,Narcine brasiliensis
+2645,721,Rhipidomys tribei
+2646,722,Squatina argentina
+2647,723,Squatina occulta
+2648,724,Rhincodon typus
+2649,725,Mustelus schmitti
+2650,726,Carcharodon carcharias
+2651,727,Carcharhinus galapagensis
+2652,728,Carcharhinus perezi
+2653,729,Cetorhinus maximus
+2654,730,Rhincodon typus
+2655,731,Carcharhinus longimanus
+2656,732,Carcharhinus plumbeus
+2657,733,Negaprion brevirostris
+2658,734,Ginglymostoma cirratum
+2659,735,Sphyrna lewini
+2660,735,Sphyrna tiburo
+2661,735,Sphyrna tudes
+2662,735,Sphyrna zygaena
+2663,736,Sphyrna lewini
+2664,736,Sphyrna tiburo
+2665,736,Sphyrna tudes
+2666,736,Sphyrna zygaena
+2667,737,Sphyrna lewini
+2668,737,Sphyrna tiburo
+2669,737,Sphyrna tudes
+2670,737,Sphyrna zygaena
+2671,738,Sphyrna lewini
+2672,738,Sphyrna tiburo
+2673,738,Sphyrna tudes
+2674,738,Sphyrna zygaena
+2675,739,Sphyrna media
+2676,740,Sphyrna mokarran
+2677,741,Sphyrna zygaena
+2678,742,Cetorhinus maximus
+2679,743,Alopias vulpinus
+2680,744,Alopias superciliosus
+2681,744,Alopias vulpinus
+2682,745,Alopias superciliosus
+2683,745,Alopias vulpinus
+2684,746,Alopias vulpinus
+2685,747,Carcharhinus plumbeus
+2686,748,Carcharhinus signatus
+2687,749,Ctenomys flamarioni
+2688,749,Ctenomys bicolor
+2689,749,Ctenomys lami
+2690,749,Ctenomys minutus
+2691,750,Ctenomys flamarioni
+2692,750,Ctenomys bicolor
+2693,750,Ctenomys lami
+2694,750,Ctenomys minutus
+2695,751,Ctenomys flamarioni
+2696,751,Ctenomys bicolor
+2697,751,Ctenomys lami
+2698,751,Ctenomys minutus
+2699,752,Ctenomys minutus
+2700,753,Melipona rufiventris
+2701,754,Phyllomys unicolor
+2702,755,Odontophorus capueira plumbeicollis
+2703,756,Ginglymostoma cirratum
+2704,757,Melipona scutellaris
+2705,758,Mazama nana
+2706,759,Ozotoceros bezoarticus bezoarticus
+2707,760,Mazama nana
+2708,761,Brycon vermelha
+2709,762,Lutjanus cyanopterus
+2710,763,Noronhomys vespuccii
+2711,764,Xanthopsar flavus
+2712,765,Sclerurus cearensis
+2713,766,Sclerurus macconnelli bahiae
+2714,767,Sclerurus caudacutus caligineus
+2715,767,Sclerurus caudacutus umbretta
+2716,768,Lepidochelys olivacea
+2717,769,Trinomys yonenagae
+2718,770,Melipona rufiventris
+2719,770,Melipona scutellaris
+2720,770,Melipona capixaba
+2721,770,Partamona littoralis
+2722,771,Melipona rufiventris
+2723,771,Melipona scutellaris
+2724,771,Melipona capixaba
+2725,771,Partamona littoralis
+2726,772,Melipona rufiventris
+2727,772,Melipona scutellaris
+2728,772,Melipona capixaba
+2729,772,Partamona littoralis
+2730,773,Melipona rufiventris
+2731,773,Melipona scutellaris
+2732,773,Melipona capixaba
+2733,773,Partamona littoralis
+2734,774,Acrobatornis fonsecai
+2735,775,Aceratobasis cornicauda
+2736,775,Aceratobasis mourei
+2737,775,Homeoura lindneri
+2738,776,Troglorhopalurus translucidus
+2739,777,Thalassarche chlororhynchos
+2740,778,Diomedea dabbenena
+2741,779,Diomedea exulans
+2742,780,Diomedea exulans
+2743,781,Diomedea epomophora
+2744,782,Diomedea sanfordi
+2745,783,Serpophaga hypoleuca pallida
+2746,784,Megalops atlanticus
+2747,785,Iodopleura pipra
+2748,785,Iodopleura pipra leucopygia
+2749,786,Xipholena atropurpurea
+2750,787,Geositta poeciloptera
+2751,788,Hypsolebias multiradiatus
+2752,788,Cynolebias griseus
+2753,788,Hypsolebias notatus
+2754,788,Hypsolebias marginatus
+2755,789,Hypsolebias multiradiatus
+2756,789,Cynolebias griseus
+2757,789,Hypsolebias notatus
+2758,789,Hypsolebias marginatus
+2759,790,Hypsolebias multiradiatus
+2760,790,Cynolebias griseus
+2761,790,Hypsolebias notatus
+2762,790,Hypsolebias marginatus
+2763,791,Pituna xinguensis
+2764,791,Plesiolebias canabravensis
+2765,791,Spectrolebias reticulatus
+2766,791,Moema piriana
+2767,791,Simpsonichthys cholopteryx
+2768,792,Maratecoara splendida
+2769,792,Melanorivulus crixas
+2770,793,Tapirus terrestris
+2771,794,Anumara forbesi
+2772,795,Touit surdus
+2773,796,Touit melanonotus
+2774,797,Eusarcus elinae
+2775,797,Giupponia chagasi
+2776,797,Iandumoema setimapocu
+2777,797,Iandumoema uai
+2778,797,Pachylospeleus strinatii
+2779,797,Spaeleoleptes spaeleus
+2780,797,Spinopilar moria
+2781,798,Eusarcus elinae
+2782,798,Giupponia chagasi
+2783,798,Iandumoema setimapocu
+2784,798,Iandumoema uai
+2785,798,Pachylospeleus strinatii
+2786,798,Spaeleoleptes spaeleus
+2787,798,Spinopilar moria
+2788,799,Matagaia chromatopus
+2789,799,Neonella noronha
+2790,800,Metagonia potiguar
+2791,800,Metagonia diamantina
+2792,801,Metagonia potiguar
+2793,801,Metagonia diamantina
+2794,802,Metagonia potiguar
+2795,802,Metagonia diamantina
+2796,803,Metagonia potiguar
+2797,803,Metagonia diamantina
+2798,804,Dendrocolaptes medius
+2799,805,Dendrocolaptes retentus
+2800,806,Campylorhamphus trochilirostris trochilirostris
+2801,807,Dendrexetastes rufigula paraensis
+2802,808,Dendrocincla merula badia
+2803,809,Campylorhamphus multostriatus
+2804,810,Xiphorhynchus guttatoides gracilirostris
+2805,811,Xiphorhynchus atlanticus
+2806,812,Hylexetastes brigidai
+2807,813,Xiphocolaptes carajaensis
+2808,814,Xiphocolaptes falcirostris
+2809,815,Campylorhamphus cardosoi
+2810,816,Dendrocincla taunayi
+2811,817,Xiphorhynchus atlanticus
+2812,818,Hylexetastes uniformis
+2813,819,Procnias albus wallacei
+2814,820,Oxyruncus cristatus tocantinsi
+2815,821,Anodorhynchus leari
+2816,822,Cyanopsitta spixii
+2817,823,Anodorhynchus glaucus
+2818,824,Guaruba guarouba
+2819,825,Cyanopsitta spixii
+2820,826,Pteroglossus bitorquatus bitorquatus
+2821,827,Pomacea sordida
+2822,828,Pomacea sordida
+2823,829,Scarus trispinosus
+2824,830,Campylopterus calcirupicola
+2825,831,Sula sula
+2826,832,Tinamus tao
+2827,833,Morpho menelaus eberti
+2828,834,Bradypus torquatus
+2829,835,Xipholena lamellipennis
+2830,836,Hydropsalis candicans
+2831,837,Nyctiprogne vielliardi
+2832,838,Mycteroperca bonaci
+2833,838,Mycteroperca interstitialis
+2834,839,Mycteroperca bonaci
+2835,839,Mycteroperca interstitialis
+2836,840,Mycteroperca interstitialis
+2837,841,Mycteroperca bonaci
+2838,842,Glaucis dohrnii
+2839,843,Myrmecophaga tridactyla
+2840,844,Anabazenops dorsalis
+2841,845,Automolus lammi
+2842,846,Lopholatilus villarii
+2843,847,Charadrius wilsonia
+2844,848,Thalurania watertonii
+2845,849,Thalurania watertonii
+2846,850,Augastes lumachella
+2847,851,Colibri delphinae greenewalti
+2848,852,Cartagonum apiuba
+2849,852,Lycomorphon brasiliense
+2850,852,Coarazuphium caatinga
+2851,852,Coarazuphium cessaima
+2852,852,Coarazuphium formoso
+2853,852,Coarazuphium pains
+2854,852,Coarazuphium ricardoi
+2855,852,Coarazuphium tapiaguassu
+2856,852,Coarazuphium tessai
+2857,852,Schizogenius ocellatus
+2858,853,Copelatus cessaima
+2859,854,Copelatus cessaima
+2860,855,Canthon corpulentus
+2861,855,Canthon quadripunctatus
+2862,855,Dichotomius eucranioides
+2863,855,Dichotomius mysticus
+2864,855,Dichotomius schiffleri
+2865,855,Pedaridium hirsutum
+2866,856,Altitatiayus campoi
+2867,856,Altitatiayus dulceae
+2868,856,Altitatiayus godinhorum
+2869,856,Altitatiayus koikei
+2870,856,Altitatiayus rotundatus
+2871,856,Altitatiayus ruficollis
+2872,856,Altitatiayus trifurcatus
+2873,857,Scarus trispinosus
+2874,858,Mustelus canis
+2875,859,Xenops minutus alagoanus
+2876,860,Formicivora acutirostris
+2877,861,Formicivora paludicola
+2878,862,Sporophila maximiliani
+2879,863,Mustelus canis
+2880,864,Epinephelus itajara
+2881,865,Mustelus canis
+2882,866,Tolypeutes tricinctus
+2883,867,Tolypeutes tricinctus
+2884,868,Morpho menelaus eberti
+2885,869,Parides ascanius
+2886,870,Parides burchellanus
+2887,871,Phylloscartes beckeri
+2888,872,Inia geoffrensis
+2889,873,Inia geoffrensis
+2890,874,Bouchardia rosea
+2891,875,Heterodactylus lundii
+2892,876,Scarus zelindae
+2893,877,Brachyteles hypoxanthus
+2894,878,Brachyteles hypoxanthus
+2895,879,Carcharhinus obscurus
+2896,880,Lepidothrix iris iris
+2897,880,Lepidothrix iris
+2898,881,Lepidothrix iris iris
+2899,881,Lepidothrix iris
+2900,882,Sporophila melanogaster
+2901,883,Sporophila hypoxantha
+2902,884,Sporophila palustris
+2903,885,Sporophila ruficollis
+2904,886,Sporophila nigrorufa
+2905,887,Glaucidium mooreorum
+2906,888,Atelocynus microtis
+2907,889,Speothos venaticus
+2908,890,Speothos venaticus
+2909,891,Cebus kaapori
+2910,892,Aburria cujubi
+2911,893,Aburria cujubi
+2912,894,Kentropyx vanzoi
+2913,894,Tropidurus erythrocephalus
+2914,894,Tropidurus psammonastes
+2915,894,Ameiva parecis
+2916,894,Glaucomastix littoralis
+2917,894,Tropidurus hygomi
+2918,895,Kentropyx vanzoi
+2919,895,Tropidurus erythrocephalus
+2920,895,Tropidurus psammonastes
+2921,895,Ameiva parecis
+2922,895,Glaucomastix littoralis
+2923,895,Tropidurus hygomi
+2924,896,Brasiliscincus caissara
+2925,897,Heterodactylus lundii
+2926,898,Dactyloa nasofrontalis
+2927,898,Dactyloa pseudotigrina
+2928,899,Sphyrna lewini
+2929,899,Sphyrna mokarran
+2930,899,Sphyrna zygaena
+2931,900,Sphyrna lewini
+2932,900,Sphyrna mokarran
+2933,900,Sphyrna zygaena
+2934,901,Sphyrna lewini
+2935,901,Sphyrna mokarran
+2936,901,Sphyrna zygaena
+2937,902,Sphyrna zygaena
+2938,903,Megalops atlanticus
+2939,904,Anthus nattereri
+2940,905,Megalops atlanticus
+2941,906,Cyanocorax hafferi
+2942,907,Megalops atlanticus
+2943,908,Panthera onca
+2944,909,Megalops atlanticus
+2945,910,Hypocnemis hypoxantha ochraceiventris
+2946,911,Hypocnemis striata
+2947,912,Hypocnemis ochrogyna
+2948,913,Choranthias salmopunctatus
+2949,914,Alouatta ululata
+2950,915,Capito dayi
+2951,916,Attila spadiceus uropygiatus
+2952,917,Phylloscartes roquettei
+2953,918,Phylloscartes ceciliae
+2954,919,Gubernatrix cristata
+2955,920,Baryancistrus longipinnis
+2956,921,Hypocephalus armatus
+2957,922,Baryancistrus longipinnis
+2958,923,Hippocampus patagonicus
+2959,923,Hippocampus erectus
+2960,923,Hippocampus reidi
+2961,924,Hippocampus patagonicus
+2962,924,Hippocampus erectus
+2963,924,Hippocampus reidi
+2964,925,Hippocampus patagonicus
+2965,925,Hippocampus erectus
+2966,925,Hippocampus reidi
+2967,926,Hippocampus patagonicus
+2968,926,Hippocampus erectus
+2969,926,Hippocampus reidi
+2970,927,Hippocampus patagonicus
+2971,927,Hippocampus erectus
+2972,927,Hippocampus reidi
+2973,928,Hippocampus patagonicus
+2974,928,Hippocampus erectus
+2975,928,Hippocampus reidi
+2976,929,Hippocampus reidi
+2977,930,Hippocampus patagonicus
+2978,930,Hippocampus erectus
+2979,930,Hippocampus reidi
+2980,931,Hippocampus patagonicus
+2981,931,Hippocampus erectus
+2982,931,Hippocampus reidi
+2983,932,Hippocampus patagonicus
+2984,932,Hippocampus erectus
+2985,932,Hippocampus reidi
+2986,933,Hippocampus patagonicus
+2987,934,Hippocampus reidi
+2988,935,Carcharias taurus
+2989,936,Squatina occulta
+2990,937,Squatina argentina
+2991,938,Squatina guggenheim
+2992,939,Squatina guggenheim
+2993,940,Carcharhinus obscurus
+2994,941,Notorynchus cepedianus
+2995,942,Carcharhinus perezi
+2996,943,Carcharias taurus
+2997,944,Rhincodon typus
+2998,945,Carcharhinus obscurus
+2999,946,Negaprion brevirostris
+3000,947,Mustelus fasciatus
+3001,948,Ginglymostoma cirratum
+3002,949,Mustelus fasciatus
+3003,950,Carcharias taurus
+3004,951,Sphyrna media
+3005,952,Carcharhinus signatus
+3006,953,Isogomphodon oxyrhynchus
+3007,954,Isogomphodon oxyrhynchus
+3008,955,Pseudobatos percellens
+3009,956,Amazona rhodocorytha
+3010,957,Hyporthodus nigritus
+3011,958,Hyporthodus nigritus
+3012,959,Polyprion americanus
+3013,960,Hyporthodus niveatus
+3014,961,Laniisoma elegans
+3015,962,Thamnophilus caerulescens pernambucensis
+3016,963,Thamnophilus caerulescens cearensis
+3017,964,Clytoctantes atrogularis
+3018,965,Thamnophilus aethiops distans
+3019,966,Thamnophilus nigrocinereus tschudii
+3020,966,Thamnophilus nigrocinereus huberi
+3021,967,Dysithamnus plumbeus
+3022,968,Myrmotherula snowi
+3023,969,Myrmotherula urosticta
+3024,970,Myrmotherula oreni
+3025,971,Epinecrophylla dentei
+3026,972,Myrmotherula fluminensis
+3027,973,Myrmotherula minor
+3028,974,Monasa morphoeus morphoeus
+3029,975,Conopophaga lineata lineata
+3030,976,Conopophaga cearae
+3031,977,Sporophila falcirostris
+3032,978,Ateles belzebuth
+3033,979,Atractus caete
+3034,980,Atractus thalesdelemai
+3035,981,Atractus ronnie
+3036,982,Amphisbaena arda
+3037,982,Amphisbaena frontalis
+3038,982,Amphisbaena nigricauda
+3039,982,Amphisbaena supernumeraria
+3040,982,Amphisbaena uroxena
+3041,982,Leposternon kisteumacheri
+3042,982,Leposternon octostegum
+3043,982,Leposternon scutigerum
+3044,983,Corallus cropanii
+3045,984,Heterodactylus lundii
+3046,985,Heterodactylus lundii
+3047,986,Calamodontophis ronaldoi
+3048,987,Apostolepis gaboi
+3049,988,Apostolepis arenaria
+3050,989,Apostolepis striata
+3051,990,Heterodactylus lundii
+3052,991,Elaenia ridleyana
+3053,992,Taoniscus nanus
+3054,993,Nothura minor
+3055,994,Mustelus canis
+3056,995,Pseudoseisura lophotes
+3057,996,Coryphistera alaudina
+3058,997,Aburria cujubi
+3059,998,Cotinga maculata
+3060,999,Aburria cujubi
+3061,1000,Aburria cujubi
+3062,1001,Pyrilia vulturina
+3063,1002,Geositta poeciloptera
+3064,1003,Mylesinus paucisquamatus
+3065,1004,Chiropotes satanas
+3066,1005,Chiropotes satanas
+3067,1006,Lepidothrix vilasboasi
+3068,1007,Pseudocroniades machaon seabrai
+3069,1008,Stegastes rocasensis
+3070,1009,Aceratobasis cornicauda
+3071,1009,Aceratobasis mourei
+3072,1009,Homeoura lindneri
+3073,1010,Adebrotus lugoi
+3074,1010,Camelobaetidius maranhensis
+3075,1010,Camelobaetidius spinosus
+3076,1010,Hermanella amere
+3077,1010,Hermanella nigra
+3078,1011,Adebrotus lugoi
+3079,1011,Camelobaetidius maranhensis
+3080,1011,Camelobaetidius spinosus
+3081,1011,Hermanella amere
+3082,1011,Hermanella nigra
+3083,1012,Atlantoraja castelnaui
+3084,1013,Sympterygia bonapartii
+3085,1014,Sympterygia acuta
+3086,1015,Atlantoraja castelnaui
+3087,1016,Atlantoraja castelnaui
+3088,1017,Merulaxis stresemanni
+3089,1018,Maxchernes iporangae
+3090,1018,Progarypus nigrimanus
+3091,1019,Balaenoptera borealis
+3092,1020,Astropecten articulatus
+3093,1020,Astropecten brasiliensis
+3094,1020,Astropecten marginatus
+3095,1020,Coscinasterias tenuispina
+3096,1020,Linckia guildingi
+3097,1020,Oreaster reticulatus
+3098,1021,Magnastigma julia
+3099,1021,Strymon ohausi
+3100,1022,Magnastigma julia
+3101,1022,Strymon ohausi
+3102,1023,Ideoroncus cavicola
+3103,1023,Pseudochthonius biseriatus
+3104,1023,Spelaeobochica iuiu
+3105,1023,Spelaeobochica muchmorei
+3106,1023,Spelaeobochica allodentatus
+3107,1023,Maxchernes iporangae
+3108,1023,Spelaeochernes gracilipalpus
+3109,1023,Progarypus nigrimanus
+3110,1024,Ideoroncus cavicola
+3111,1024,Pseudochthonius biseriatus
+3112,1024,Spelaeobochica iuiu
+3113,1024,Spelaeobochica muchmorei
+3114,1024,Spelaeobochica allodentatus
+3115,1024,Maxchernes iporangae
+3116,1024,Spelaeochernes gracilipalpus
+3117,1024,Progarypus nigrimanus
+3118,1025,Poecilotriccus albifacies
+3119,1026,Schiffornis turdina intermedia
+3120,1027,Cnipodectes superrufus
+3121,1028,Dinoponera lucida
+3122,1028,Gnamptogenys wilsoni
+3123,1028,Mycetophylax simplex
+3124,1028,Mycetomoellerius atlanticus
+3125,1028,Brachymyrmex micromegas
+3126,1028,Diaphoromyrma sofiae
+3127,1028,Monomorium delabiei
+3128,1028,Mycetagroicus urbanus
+3129,1028,Rhopalothrix plaumanni
+3130,1028,Fulakora cleae
+3131,1029,Dinoponera lucida
+3132,1029,Gnamptogenys wilsoni
+3133,1029,Mycetophylax simplex
+3134,1029,Mycetomoellerius atlanticus
+3135,1029,Brachymyrmex micromegas
+3136,1029,Diaphoromyrma sofiae
+3137,1029,Monomorium delabiei
+3138,1029,Mycetagroicus urbanus
+3139,1029,Rhopalothrix plaumanni
+3140,1029,Fulakora cleae
+3141,1030,Atta robusta
+3142,1031,Formicivora erythronotos
+3143,1032,Myrmoderus ruficauda
+3144,1033,Formicivora littoralis
+3145,1034,Neopelma aurifrons
+3146,1035,Phalotris multipunctatus
+3147,1036,Alectrurus tricolor
+3148,1037,Epinephelus marginatus
+3149,1038,Leopardus tigrinus
+3150,1039,Leopardus tigrinus
+3151,1040,Circus cinereus
+3152,1041,Leptodon forbesi
+3153,1042,Leptodon forbesi
+3154,1043,Amadonastur lacernulatus
+3155,1044,Harpia harpyja
+3156,1045,Morphnus guianensis
+3157,1046,Homonota uruguayensis
+3158,1047,Rhopornis ardesiacus
+3159,1048,Phaethon aethereus
+3160,1049,Pterodroma madeira
+3161,1050,Pterodroma incerta
+3162,1051,Pterodroma deserta
+3163,1052,Pterodroma arminjoniana
+3164,1053,Cichlocolaptes mazarbarnetti
+3165,1054,Prochilodus vimboides
+3166,1055,Alouatta ululata
+3167,1056,Alouatta discolor
+3168,1057,Saguinus niger
+3169,1058,Guaruba guarouba
+3170,1059,Callicebus barbarabrownae
+3171,1060,Callicebus barbarabrownae
+3172,1061,Harpia harpyja
+3173,1062,Hippocampus patagonicus
+3174,1062,Hippocampus erectus
+3175,1063,Hippocampus patagonicus
+3176,1063,Hippocampus erectus
+3177,1064,Stenocercus azureus
+3178,1065,Taoniscus nanus
+3179,1066,Thamnomanes caesius caesius
+3180,1067,Psophia obscura
+3181,1068,Psophia dextralis
+3182,1069,Psophia interjecta
+3183,1070,Penelope superciliaris alagoensis
+3184,1071,Neomorphus geoffroyi geoffroyi
+3185,1071,Neomorphus geoffroyi
+3186,1071,Neomorphus geoffroyi amazonicus
+3187,1071,Neomorphus geoffroyi dulcis
+3188,1072,Neomorphus squamiger
+3189,1073,Aburria cujubi
+3190,1074,Penelope jacucaca
+3191,1075,Penelope superciliaris alagoensis
+3192,1076,Penelope pileata
+3193,1077,Aburria cujubi
+3194,1077,Aburria jacutinga
+3195,1078,Aburria cujubi
+3196,1078,Aburria jacutinga
+3197,1079,Panthera onca
+3198,1080,Panthera onca
+3199,1081,Aratinga solstitialis
+3200,1082,Bothrops alcatraz
+3201,1083,Bothrops insularis
+3202,1084,Bothrops muriciensis
+3203,1085,Bothrops pirajai
+3204,1086,Corallus cropanii
+3205,1087,Corallus cropanii
+3206,1088,Corallus cropanii
+3207,1089,Synallaxis kollari
+3208,1090,Asthenes hudsoni
+3209,1091,Myrmecophaga tridactyla
+3210,1092,Vireo gracilirostris
+3211,1093,Plesiolebias xavantei
+3212,1093,Hypsolebias multiradiatus
+3213,1093,Maratecoara splendida
+3214,1093,Melanorivulus crixas
+3215,1093,Cynolebias griseus
+3216,1093,Hypsolebias notatus
+3217,1093,Hypsolebias marginatus
+3218,1094,Plesiolebias xavantei
+3219,1094,Hypsolebias multiradiatus
+3220,1094,Maratecoara splendida
+3221,1094,Melanorivulus crixas
+3222,1094,Cynolebias griseus
+3223,1094,Hypsolebias notatus
+3224,1094,Hypsolebias marginatus
+3225,1095,Plesiolebias xavantei
+3226,1095,Hypsolebias multiradiatus
+3227,1095,Maratecoara splendida
+3228,1095,Melanorivulus crixas
+3229,1095,Cynolebias griseus
+3230,1095,Hypsolebias notatus
+3231,1095,Hypsolebias marginatus
+3232,1096,Plesiolebias xavantei
+3233,1096,Hypsolebias multiradiatus
+3234,1096,Maratecoara splendida
+3235,1096,Melanorivulus crixas
+3236,1096,Cynolebias griseus
+3237,1096,Hypsolebias notatus
+3238,1096,Hypsolebias marginatus
+3239,1097,Plesiolebias xavantei
+3240,1097,Hypsolebias multiradiatus
+3241,1097,Maratecoara splendida
+3242,1097,Melanorivulus crixas
+3243,1097,Cynolebias griseus
+3244,1097,Hypsolebias notatus
+3245,1097,Hypsolebias marginatus
+3246,1098,Troglorhopalurus translucidus
+3247,1099,Liolaemus lutzae
+3248,1100,Liolaemus lutzae
+3249,1101,Ameivula nativo
+3250,1102,Contomastix vacariensis
+3251,1103,Placosoma cipoense
+3252,1104,Ameivula nativo
+3253,1105,Contomastix vacariensis
+3254,1106,Liolaemus occipitalis
+3255,1107,Liolaemus arambarensis
+3256,1108,Contomastix vacariensis
+3257,1109,Glaucomastix littoralis
+3258,1110,Stenocercus azureus
+3259,1111,Coleodactylus natalensis
+3260,1112,Hyphessobrycon flammeus
+3261,1113,Ginglymostoma cirratum
+3262,1114,Aceratobasis cornicauda
+3263,1114,Aceratobasis mourei
+3264,1114,Homeoura lindneri
+3265,1115,Aceratobasis cornicauda
+3266,1115,Aceratobasis mourei
+3267,1115,Homeoura lindneri
+3268,1116,Asthenes luizae
+3269,1117,Syndactyla ucayalae
+3270,1118,Chrysocyon brachyurus
+3271,1119,Chrysocyon brachyurus
+3272,1120,Chrysocyon brachyurus
+3273,1121,Chrysocyon brachyurus
+3274,1122,Pteronura brasiliensis
+3275,1123,Cebus kaapori
+3276,1124,Sapajus cay
+3277,1125,Chiropotes satanas
+3278,1126,Carcharhinus obscurus
+3279,1126,Carcharhinus signatus
+3280,1127,Carcharhinus obscurus
+3281,1127,Carcharhinus signatus
+3282,1128,Eleoscytalopus psychopompus
+3283,1129,Scytalopus iraiensis
+3284,1130,Pionus reichenowi
+3285,1131,Hemitriccus kaempferi
+3286,1132,Hemitriccus mirandae
+3287,1133,Onychorhynchus swainsoni
+3288,1134,Knipolegus franciscanus
+3289,1135,Brachyteles hypoxanthus
+3290,1136,Calidris subruficollis
+3291,1137,Numenius hudsonicus
+3292,1138,Limnodromus griseus
+3293,1139,Calidris canutus
+3294,1140,Numenius borealis
+3295,1141,Calidris pusilla
+3296,1142,Epinephelus itajara
+3297,1143,Epinephelus itajara
+3298,1144,Brachyteles hypoxanthus
+3299,1145,Brachyteles hypoxanthus
+3300,1146,Brachyteles hypoxanthus
+3301,1147,Brachyteles hypoxanthus
+3302,1148,Brachyteles hypoxanthus
+3303,1149,Pulsatrix perspicillata pulsatrix
+3304,1150,Crax globulosa
+3305,1151,Crax globulosa
+3306,1152,Crax blumenbachii
+3307,1153,Crax globulosa
+3308,1154,Pauxi mitu
+3309,1155,Crax blumenbachii
+3310,1156,Crax globulosa
+3311,1157,Crax fasciolata pinima
+3312,1158,Crax globulosa
+3313,1159,Rodriguesophis chui
+3314,1160,Rodriguesophis scriptorcibatus
+3315,1161,Nyctibius aethereus aethereus
+3316,1162,Phlegopsis nigromaculata paraensis
+3317,1162,Phlegopsis nigromaculata confinis
+3318,1163,Rhegmatorhina gymnops
+3319,1164,Phlegopsis borbae
+3320,1165,Rhegmatorhina hoffmannsi
+3321,1166,Lopholatilus villarii
+3322,1167,Elacatinus figaro
+3323,1168,Pteronura brasiliensis
+3324,1169,Panthera onca
+3325,1170,Eusarcus elinae
+3326,1170,Giupponia chagasi
+3327,1170,Iandumoema setimapocu
+3328,1170,Iandumoema uai
+3329,1170,Pachylospeleus strinatii
+3330,1170,Spaeleoleptes spaeleus
+3331,1170,Spinopilar moria
+3332,1171,Cassidulus mitis
+3333,1172,Cassidulus mitis
+3334,1173,Lytechinus variegatus
+3335,1174,Mylesinus paucisquamatus
+3336,1175,Mylesinus paucisquamatus
+3337,1176,Mylesinus paucisquamatus
+3338,1177,Mylesinus paucisquamatus
+3339,1178,Eukoenenia potiguar
+3340,1178,Eukoenenia maquinensis
+3341,1178,Eukoenenia sagarana
+3342,1178,Eukoenenia spelunca
+3343,1178,Eukoenenia virgemdalapa
+3344,1178,Leptokoenenia pelada
+3345,1178,Leptokoenenia thalassophobica
+3346,1179,Callicebus barbarabrownae
+3347,1180,Sphyrna mokarran
+3348,1181,Sphyrna tudes
+3349,1182,Formicivora grantsaui
+3350,1183,Stigmatura napensis napensis
+3351,1184,Pyriglena atra
+3352,1185,Pyriglena pernambucensis
+3353,1186,Dactyloa nasofrontalis
+3354,1186,Dactyloa pseudotigrina
+3355,1187,Enyalius erythroceneus
+3356,1188,Scarus zelindae
+3357,1189,Amazona pretrei
+3358,1190,Amazona vinacea
+3359,1191,Puffinus lherminieri
+3360,1192,Procellaria conspicillata
+3361,1193,Procellaria aequinoctialis
+3362,1194,Ditaxodon taeniatus
+3363,1195,Lutjanus purpureus
+3364,1196,Lutjanus purpureus
+3365,1197,Sporophila beltoni
+3366,1198,Platyrinchus leucoryphus
+3367,1199,Platyrinchus mystaceus niveigularis
+3368,1200,Mergus octosetaceus
+3369,1201,Sphyrna tiburo
+3370,1202,Hypsolebias multiradiatus
+3371,1202,Cynolebias griseus
+3372,1202,Hypsolebias notatus
+3373,1202,Hypsolebias marginatus
+3374,1203,Hypsolebias multiradiatus
+3375,1203,Cynolebias griseus
+3376,1203,Hypsolebias notatus
+3377,1203,Hypsolebias marginatus
+3378,1204,Hypsolebias multiradiatus
+3379,1204,Cynolebias griseus
+3380,1204,Hypsolebias notatus
+3381,1204,Hypsolebias marginatus
+3382,1205,Cinclodes espinhacensis
+3383,1206,Hypsolebias flammeus
+3384,1206,Hypsolebias multiradiatus
+3385,1206,Cynolebias griseus
+3386,1206,Hypsolebias notatus
+3387,1206,Hypsolebias marginatus
+3388,1207,Hypsolebias flammeus
+3389,1207,Hypsolebias multiradiatus
+3390,1207,Cynolebias griseus
+3391,1207,Hypsolebias notatus
+3392,1207,Hypsolebias marginatus
+3393,1208,Hypsolebias flammeus
+3394,1208,Hypsolebias multiradiatus
+3395,1208,Cynolebias griseus
+3396,1208,Hypsolebias notatus
+3397,1208,Hypsolebias marginatus
+3398,1209,Hypsolebias flammeus
+3399,1209,Hypsolebias multiradiatus
+3400,1209,Cynolebias griseus
+3401,1209,Hypsolebias notatus
+3402,1209,Hypsolebias marginatus
+3403,1210,Hypsolebias flammeus
+3404,1211,Cynolebias griseus
+3405,1212,Lopholatilus villarii
+3406,1213,Prognathodes obliquus
+3407,1214,Cerdale fasciata
+3408,1215,Scarus trispinosus
+3409,1216,Scarus zelindae
+3410,1217,Sparisoma frondosum
+3411,1218,Scorpaenodes insularis
+3412,1219,Megalops atlanticus
+3413,1220,Synaptula secreta
+3414,1221,Pyrrhura griseipectus
+3415,1222,Astyanax eremus
+3416,1223,Celeus flavus subflavus
+3417,1224,Celeus galeatus
+3418,1225,Celeus torquatus pieteroyensi
+3419,1225,Celeus torquatus tinnunculus
+3420,1226,Celeus torquatus pieteroyensi
+3421,1226,Celeus torquatus tinnunculus
+3422,1227,Celeus obrieni
+3423,1228,Piculus paraensis
+3424,1229,Piculus polyzonus
+3425,1230,Spinus yarrellii
+3426,1231,Tangara fastuosa
+3427,1232,Tangara fastuosa
+3428,1233,Phyllomyias reiseri
+3429,1234,Megalops atlanticus
+3430,1235,Cebus kaapori
+3431,1236,Contopus nigrescens
+3432,1237,Sporophila frontalis
+3433,1238,Megalops atlanticus
+3434,1239,Tayassu pecari
+3435,1240,Tayassu pecari
+3436,1241,Bradypus torquatus
+3437,1242,Hyporthodus niveatus
+3438,1243,Ideoroncus cavicola
+3439,1243,Pseudochthonius biseriatus
+3440,1243,Spelaeobochica iuiu
+3441,1243,Spelaeobochica muchmorei
+3442,1243,Spelaeobochica allodentatus
+3443,1243,Maxchernes iporangae
+3444,1243,Spelaeochernes gracilipalpus
+3445,1243,Progarypus nigrimanus
+3446,1244,Ideoroncus cavicola
+3447,1244,Pseudochthonius biseriatus
+3448,1244,Spelaeobochica iuiu
+3449,1244,Spelaeobochica muchmorei
+3450,1244,Spelaeobochica allodentatus
+3451,1244,Maxchernes iporangae
+3452,1244,Spelaeochernes gracilipalpus
+3453,1244,Progarypus nigrimanus
+3454,1245,Melipona capixaba
+3455,1246,Thripophaga macroura
+3456,1247,Phaethornis margarettae
+3457,1248,Phaethornis aethopygus
+3458,1249,Heraclides himeros baia
+3459,1249,Heraclides himeros himeros
+3460,1249,Mimoides lysithous harrisianus
+3461,1249,Mimoides lysithous sebastianus
+3462,1249,Parides bunichus chamissonia
+3463,1249,Parides burchellanus
+3464,1249,Parides klagesi
+3465,1249,Parides tros danunciae
+3466,1250,Heraclides himeros baia
+3467,1250,Heraclides himeros himeros
+3468,1250,Mimoides lysithous harrisianus
+3469,1250,Mimoides lysithous sebastianus
+3470,1250,Parides bunichus chamissonia
+3471,1250,Parides burchellanus
+3472,1250,Parides klagesi
+3473,1250,Parides tros danunciae
+3474,1251,Discosura langsdorffi langsdorffi
+3475,1252,Phaethon aethereus
+3476,1253,Phaethon lepturus
+3477,1254,Phaethon aethereus
+3478,1255,Leptasthenura platensis
+3479,1256,Mobula tarapacana
+3480,1257,Bathytoshia centroura
+3481,1257,Myliobatis freminvillei
+3482,1258,Bathytoshia centroura
+3483,1258,Myliobatis freminvillei
+3484,1259,Gymnura altavela
+3485,1260,Atlantoraja castelnaui
+3486,1261,Hypanus marianae
+3487,1261,Urotrygon microphthalmum
+3488,1262,Hypanus marianae
+3489,1262,Urotrygon microphthalmum
+3490,1263,Bathytoshia centroura
+3491,1264,Narcine brasiliensis
+3492,1265,Sympterygia acuta
+3493,1266,Urotrygon microphthalmum
+3494,1267,Mobula mobular
+3495,1267,Mobula thurstoni
+3496,1268,Mobula mobular
+3497,1268,Mobula thurstoni
+3498,1269,Myliobatis ridens
+3499,1269,Myliobatis freminvillei
+3500,1269,Gymnura altavela
+3501,1270,Myliobatis ridens
+3502,1270,Myliobatis freminvillei
+3503,1270,Gymnura altavela
+3504,1271,Myliobatis ridens
+3505,1271,Myliobatis freminvillei
+3506,1271,Gymnura altavela
+3507,1272,Atlantoraja castelnaui
+3508,1273,Hypanus marianae
+3509,1274,Bathytoshia centroura
+3510,1275,Bathytoshia centroura
+3511,1276,Urotrygon microphthalmum
+3512,1277,Rioraja agassizii
+3513,1278,Myliobatis ridens
+3514,1278,Myliobatis freminvillei
+3515,1279,Myliobatis ridens
+3516,1279,Myliobatis freminvillei
+3517,1280,Pseudobatos horkelii
+3518,1280,Pseudobatos percellens
+3519,1281,Pseudobatos horkelii
+3520,1281,Pseudobatos percellens
+3521,1282,Lycalopex vetulus
+3522,1283,Lycalopex vetulus
+3523,1284,Lycalopex vetulus
+3524,1285,Columbina cyanopis
+3525,1286,Sphyrna media
+3526,1287,Sphyrna media
+3527,1288,Ischnocnema manezinho
+3528,1289,Ischnocnema manezinho
+3529,1290,Stegastes rocasensis
+3530,1291,Stegastes rocasensis
+3531,1292,Cichlopsis leucogenys
+3532,1293,Callithrix aurita
+3533,1294,Saguinus bicolor
+3534,1295,Saguinus bicolor
+3535,1296,Laterallus xenopterus
+3536,1297,Selenidera gouldii baturitensis
+3537,1298,Lipaugus conditus
+3538,1299,Saguinus bicolor
+3539,1300,Saguinus bicolor
+3540,1301,Callicebus barbarabrownae
+3541,1302,Leontopithecus rosalia
+3542,1303,Nemosia rourei
+3543,1304,Tangara velia signata
+3544,1305,Tangara cyanocephala cearensis
+3545,1306,Tangara fastuosa
+3546,1307,Tangara fastuosa
+3547,1308,Atta robusta
+3548,1309,Vireo gracilirostris
+3549,1310,Mycteroperca bonaci
+3550,1311,Adebrotus lugoi
+3551,1311,Camelobaetidius juparana
+3552,1311,Camelobaetidius maranhensis
+3553,1311,Camelobaetidius spinosus
+3554,1311,Hermanella amere
+3555,1311,Hermanella nigra
+3556,1312,Adebrotus lugoi
+3557,1312,Camelobaetidius juparana
+3558,1312,Camelobaetidius maranhensis
+3559,1312,Camelobaetidius spinosus
+3560,1312,Hermanella amere
+3561,1312,Hermanella nigra
+3562,1313,Adebrotus lugoi
+3563,1313,Camelobaetidius juparana
+3564,1313,Camelobaetidius maranhensis
+3565,1313,Camelobaetidius spinosus
+3566,1313,Hermanella amere
+3567,1313,Hermanella nigra
+3568,1314,Tigrisoma fasciatum
+3569,1315,Tigrisoma fasciatum
+3570,1316,Antilophia bokermanni
+3571,1317,Achirus mucuri
+3572,1318,Trogon collaris eytoni
+3573,1319,Myrmecophaga tridactyla
+3574,1320,Achirus mucuri
+3575,1321,Scytalopus diamantinensis
+3576,1322,Scytalopus novacapitalis
+3577,1323,Scytalopus gonzagai
+3578,1324,Hyporthodus niveatus
+3579,1325,Megalops atlanticus
+3580,1326,Typhochlaena curumim
+3581,1326,Tmesiphantes hypogeus
+3582,1326,Ybyrapora diversipes
+3583,1326,Ybyrapora gamba
+3584,1326,Typhochlaena seladonia
+3585,1326,Dolichothele diamantinensis
+3586,1327,Typhochlaena curumim
+3587,1327,Tmesiphantes hypogeus
+3588,1327,Ybyrapora diversipes
+3589,1327,Ybyrapora gamba
+3590,1327,Typhochlaena seladonia
+3591,1327,Dolichothele diamantinensis
+3592,1328,Pterinopelma sazimai
+3593,1329,Synallaxis infuscata
+3594,1330,Tolypeutes tricinctus
+3595,1331,Cacicus koepckeae
+3596,1332,Fregata minor
+3597,1333,Fregata trinitatis
+3598,1334,Arremonops conirostris
+3599,1335,Coryphaspiza melanotis
+3600,1336,Calyptura cristata
+3601,1337,Panthera onca
+3602,1338,Pyrrhura perlata
+3603,1339,Pyrrhura molinae
+3604,1340,Pyrrhura amazonum
+3605,1341,Pyrrhura leucotis
+3606,1342,Pyrrhura griseipectus
+3607,1343,Pyrrhura pfrimeri
+3608,1344,Pyrrhura anerythra
+3609,1345,Pyrrhura cruentata
+3610,1346,Pyrrhura coerulescens
+3611,1347,Conothraupis mesoleuca
+3612,1348,Lophornis gouldii
+3613,1349,Hylopezus whittakeri
+3614,1350,Hylopezus paraensis
+3615,1351,Chamaeza nobilis fulvipectus
+3616,1352,Grallaria varia distincta
+3617,1352,Grallaria varia intercedens
+3618,1353,Grallaria varia distincta
+3619,1353,Grallaria varia intercedens
+3620,1354,Narcine brasiliensis
+3621,1355,Cichlocolaptes mazarbarnetti
+3622,1356,Thalasseus acuflavidus
+3623,1357,Sterna hirundinacea
+3624,1358,Thalasseus maximus
+3625,1359,Sterna dougallii
+3626,1360,Carcharhinus longimanus
+3627,1361,Carcharhinus longimanus
+3628,1362,Sphyrna mokarran
+3629,1363,Squatina argentina
+3630,1364,Squatina occulta
+3631,1365,Carcharhinus signatus
+3632,1366,Rhincodon typus
+3633,1367,Carcharodon carcharias
+3634,1368,Carcharhinus perezi
+3635,1369,Carcharhinus galapagensis
+3636,1370,Notorynchus cepedianus
+3637,1371,Carcharhinus perezi
+3638,1372,Carcharhinus longimanus
+3639,1373,Rhincodon typus
+3640,1374,Carcharhinus plumbeus
+3641,1375,Negaprion brevirostris
+3642,1376,Ginglymostoma cirratum
+3643,1377,Carcharias taurus
+3644,1378,Sphyrna tiburo
+3645,1378,Sphyrna tudes
+3646,1378,Sphyrna zygaena
+3647,1379,Sphyrna tiburo
+3648,1379,Sphyrna tudes
+3649,1379,Sphyrna zygaena
+3650,1380,Sphyrna tiburo
+3651,1380,Sphyrna tudes
+3652,1380,Sphyrna zygaena
+3653,1381,Sphyrna zygaena
+3654,1382,Alopias superciliosus
+3655,1382,Alopias vulpinus
+3656,1383,Alopias superciliosus
+3657,1383,Alopias vulpinus
+3658,1384,Alopias superciliosus
+3659,1384,Alopias vulpinus
+3660,1385,Alopias superciliosus
+3661,1385,Alopias vulpinus
+3662,1386,Alopias superciliosus
+3663,1387,Alopias vulpinus
+3664,1388,Carcharhinus plumbeus
+3665,1389,Carcharhinus signatus
+3666,1390,Carcharhinus galapagensis
+3667,1391,Carcharhinus galapagensis
+3668,1392,Melipona rufiventris
+3669,1393,Melipona rufiventris
+3670,1394,Burhinus bistriatus
+3671,1395,Cyphorhinus griseolateralis
+3672,1396,Morphnus guianensis
+3673,1397,Morphnus guianensis
+3674,1398,Odontophorus capueira plumbeicollis
+3675,1399,Ginglymostoma cirratum
+3676,1400,Nyctibius leucopterus
+3677,1401,Melipona scutellaris
+3678,1402,Melipona rufiventris
+3679,1403,Melipona capixaba
+3680,1404,Melipona capixaba
+3681,1405,Melipona scutellaris
+3682,1406,Melipona capixaba
+3683,1407,Melipona scutellaris
+3684,1408,Amydetes bellorum
+3685,1409,Xanthopsar flavus
+3686,1410,Pseudobatos horkelii
+3687,1410,Pseudobatos percellens
+3688,1411,Pseudobatos horkelii
+3689,1411,Pseudobatos percellens
+3690,1412,Sclerurus cearensis
+3691,1413,Sclerurus macconnelli bahiae
+3692,1414,Sclerurus caudacutus caligineus
+3693,1414,Sclerurus caudacutus umbretta
+3694,1415,Panthera onca
+3695,1416,Terenura sicki
+3696,1417,Mycteroperca interstitialis
+3697,1418,Urubitinga coronata
