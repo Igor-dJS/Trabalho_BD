@@ -1,7 +1,11 @@
 ,id,situacao
-0,0,EW
-1,1,CR
-2,2,EN
+0,0,DD
+1,1,LC
+2,2,NT
 3,3,VU
-4,4,RE
-5,5,EX
+4,4,EN
+5,5,CR
+6,6,RE
+7,7,CR(PEX)
+8,8,EW
+9,9,EX
