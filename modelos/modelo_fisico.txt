@@ -1,7 +1,7 @@
 /* Lógico_1_trabalho: */
 
 CREATE TABLE especie (
-    nome_cientifico VARCHAR PRIMARY KEY,
+    nome_cientifico VARCHAR (255) PRIMARY KEY,
     fk_grupo_taxonomico_id_grupo INT,
     fk_categoria_de_ameaca_id_categoria INT,
     fk_familia_id_familia INT
@@ -9,60 +9,67 @@ CREATE TABLE especie (
 
 CREATE TABLE grupo_taxonomico (
     id_grupo INT PRIMARY KEY,
-    nome_taxonomico VARCHAR
+    nome_taxonomico VARCHAR (255)
 );
 
 CREATE TABLE estado (
-    sigla VARCHAR PRIMARY KEY,
-    nome_estado VARCHAR
+    sigla VARCHAR (255) PRIMARY KEY,
+    nome_estado VARCHAR (255)
 );
 
 CREATE TABLE categoria_de_ameaca (
     id_categoria INT PRIMARY KEY,
-    situacao VARCHAR
+    situacao VARCHAR (255)
 );
 
 CREATE TABLE bioma (
     id_bioma INT PRIMARY KEY,
-    nome VARCHAR
+    nome_bioma VARCHAR (255)
 );
 
 CREATE TABLE unidade_de_conservacao (
-    nome_unidade VARCHAR,
-    data_de_criacao DATE,
-    esfera_administrativa VARCHAR,
+    nome_unidade VARCHAR (255),
+    data_de_criacao INT,
+    esfera_administrativa VARCHAR (255),
     id_unidade INT PRIMARY KEY
 );
 
 CREATE TABLE ordem (
-    nome_ordem VARCHAR,
+    nome_ordem VARCHAR (255),
     id_ordem INT PRIMARY KEY
 );
 
 CREATE TABLE familia (
-    nome_familia VARCHAR,
+    nome_familia VARCHAR (255),
     id_familia INT PRIMARY KEY,
     fk_ordem_id_ordem INT
 );
 
 CREATE TABLE nome_comum (
-    nome_comum VARCHAR,
+    nome_comum VARCHAR (255),
     id_nome_comum INT PRIMARY KEY
 );
 
 CREATE TABLE eh_nativo_de (
-    fk_especie_nome_cientifico VARCHAR,
-    fk_estado_sigla VARCHAR
+    fk_especie_nome_cientifico VARCHAR (255),
+    fk_estado_sigla VARCHAR (255)
 );
 
 CREATE TABLE protege (
-    fk_especie_nome_cientifico VARCHAR,
+    fk_especie_nome_cientifico VARCHAR (255),
     fk_unidade_de_conservacao_id_unidade INT
 );
 
 CREATE TABLE pertence (
-    fk_estado_sigla VARCHAR,
-    fk_unidade_de_conservacao_id_unidade INT
+    fk_estado_sigla VARCHAR(255),
+    fk_unidade_de_conservacao_id_unidade INT,
+    
+    KEY `FK_pertence_1` (`fk_estado_sigla`),
+    KEY `FK_pertence_2` (`fk_unidade_de_conservacao_id_unidade`),
+
+    
+    CONSTRAINT `FK_pertence_1` FOREIGN KEY (`fk_estado_sigla`) REFERENCES `estado` (`sigla`) ON DELETE SET NULL,
+    CONSTRAINT `FK_pertence_2` FOREIGN KEY (`fk_unidade_de_conservacao_id_unidade`) REFERENCES `unidade_de_conservacao` (`id_unidade`) ON DELETE SET NULL
 );
 
 CREATE TABLE possui (
@@ -71,14 +78,18 @@ CREATE TABLE possui (
     hectare DOUBLE
 );
 
+
+
 CREATE TABLE `apelidada_por` (
     `fk_nome_comum_id_nome_comum` int DEFAULT NULL,
-    `fk_especie_nome_cientifico` varchar(100) DEFAULT NULL,
+    `fk_especie_nome_cientifico` varchar(255) DEFAULT NULL,
+    
     KEY `FK_apelidada_por_1` (`fk_nome_comum_id_nome_comum`),
     KEY `FK_apelidada_por_2` (`fk_especie_nome_cientifico`),
+    
     CONSTRAINT `FK_apelidada_por_1` FOREIGN KEY (`fk_nome_comum_id_nome_comum`) REFERENCES `nome_comum` (`id_nome_comum`) ON DELETE SET NULL,
     CONSTRAINT `FK_apelidada_por_2` FOREIGN KEY (`fk_especie_nome_cientifico`) REFERENCES `especie` (`nome_cientifico`) ON DELETE SET NULL
-)
+);
  
 ALTER TABLE especie ADD CONSTRAINT FK_especie_2
     FOREIGN KEY (fk_grupo_taxonomico_id_grupo)
@@ -120,16 +131,6 @@ ALTER TABLE protege ADD CONSTRAINT FK_protege_2
     REFERENCES unidade_de_conservacao (id_unidade)
     ON DELETE SET NULL;
  
-ALTER TABLE pertence ADD CONSTRAINT FK_pertence_1
-    FOREIGN KEY (fk_estado_sigla)
-    REFERENCES estado (sigla)
-    ON DELETE RESTRICT;
- 
-ALTER TABLE pertence ADD CONSTRAINT FK_pertence_2
-    FOREIGN KEY (fk_unidade_de_conservacao_id_unidade)
-    REFERENCES unidade_de_conservacao (id_unidade)
-    ON DELETE RESTRICT;
- 
 ALTER TABLE possui ADD CONSTRAINT FK_possui_1
     FOREIGN KEY (fk_bioma_id_bioma)
     REFERENCES bioma (id_bioma)
@@ -140,14 +141,6 @@ ALTER TABLE possui ADD CONSTRAINT FK_possui_2
     REFERENCES unidade_de_conservacao (id_unidade)
     ON DELETE SET NULL;
  
-ALTER TABLE apelidada_por ADD CONSTRAINT FK_apelidada_por_1
-    FOREIGN KEY (fk_especie_nome_cientifico)
-    REFERENCES especie (nome_cientifico)
-    ON DELETE RESTRICT;
- 
-ALTER TABLE apelidada_por ADD CONSTRAINT FK_apelidada_por_2
-    FOREIGN KEY (fk_nome_comum_id_nome_comum)
-    REFERENCES nome_comum (id_nome_comum)
-    ON DELETE SET NULL;
+
 
     
