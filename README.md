@@ -1,5 +1,7 @@
 # Descrição
-O resultado final do trabalho se encontra no GitHub da minha colega de grupo em [Portal de Dados MMA](https://github.com/VitoriaSerafim/portal-de-dados-mma/). Foi criado uma aplicação Web que se comunica com o banco localmente para a visualização dos dados.
+O resultado final do trabalho se encontra no GitHub da minha colega de grupo em [Portal de Dados MMA](https://github.com/VitoriaSerafim/portal-de-dados-mma/). Foi criado uma aplicação Web que se comunica com o banco localmente para a visualização dos dados. 
+
+No arquivo PDF deste repositório é possível visualizar o relatório do trabalho.
 # Pastas
 ## banco
 Arquivo .sql que pssibilita construir o banco diretamente no MySQL
